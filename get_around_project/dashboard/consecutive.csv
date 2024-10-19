@@ -1,0 +1,1842 @@
+,rental_id,car_id,checkin_type,state,delay_at_checkout_in_minutes,previous_ended_rental_id,time_delta_with_previous_rental_in_minutes,previous_checkin_type,previous_delay_at_checkout_in_minutes,delay_status
+0,511639,370585,connect,ended,-15.0,563782.0,570.0,connect,136.0,Late
+1,519491,312389,mobile,ended,58.0,545639.0,420.0,mobile,140.0,Late
+2,521156,392479,mobile,ended,,537298.0,0.0,mobile,,On time
+3,525044,349751,mobile,ended,,510607.0,60.0,mobile,-113.0,On time
+4,528808,181625,connect,ended,-76.0,557404.0,330.0,connect,-352.0,On time
+5,533670,320824,connect,ended,-6.0,556563.0,630.0,connect,23.0,Late
+6,534827,404169,mobile,ended,-7.0,531158.0,90.0,mobile,29.0,Late
+7,535611,397814,mobile,ended,68.0,535512.0,300.0,mobile,44.0,Late
+8,535770,352436,mobile,ended,74.0,524703.0,60.0,mobile,7.0,Late
+9,537576,397470,mobile,ended,18.0,539005.0,0.0,mobile,-29.0,On time
+10,540217,398802,mobile,ended,-988.0,543426.0,720.0,mobile,51.0,Late
+11,540479,374684,mobile,ended,12.0,539751.0,0.0,mobile,3.0,Late
+12,541862,382364,mobile,ended,125.0,540607.0,0.0,mobile,1.0,Late
+13,542300,307595,mobile,ended,,539897.0,30.0,mobile,,On time
+14,542374,409676,mobile,ended,50.0,540444.0,180.0,mobile,131.0,Late
+15,543328,358772,connect,ended,-9.0,552619.0,240.0,connect,-38.0,On time
+16,543679,225795,connect,ended,64.0,540663.0,540.0,connect,60.0,Late
+17,543768,374169,connect,canceled,,543010.0,210.0,connect,42.0,Late
+18,543808,369230,mobile,ended,75.0,536315.0,60.0,mobile,-191.0,On time
+19,546160,352528,connect,canceled,,546578.0,630.0,connect,-536.0,On time
+20,546477,383309,mobile,ended,16.0,548486.0,660.0,mobile,-3.0,On time
+21,547188,231676,mobile,ended,266.0,535868.0,30.0,mobile,16.0,Late
+22,548912,411521,mobile,ended,225.0,553683.0,60.0,mobile,42.0,Late
+23,550248,382901,mobile,ended,-127.0,545782.0,60.0,mobile,-9.0,On time
+24,550723,380886,mobile,ended,,545855.0,120.0,mobile,74.0,Late
+25,551069,359880,connect,ended,-22.0,549192.0,180.0,connect,45.0,Late
+26,552330,384657,connect,ended,23.0,554800.0,0.0,connect,-672.0,On time
+27,552342,376619,mobile,ended,-965.0,547312.0,0.0,mobile,-77.0,On time
+28,552425,385625,connect,ended,-102.0,550476.0,30.0,connect,-236.0,On time
+29,553367,385783,mobile,ended,24.0,519328.0,150.0,mobile,-4.0,On time
+30,554695,402993,mobile,ended,17.0,560722.0,720.0,mobile,-33.0,On time
+31,557674,375915,mobile,ended,15.0,550183.0,480.0,mobile,-1333.0,On time
+32,558088,245154,connect,ended,-40.0,566170.0,180.0,connect,-2.0,On time
+33,558250,375126,connect,ended,-4.0,549813.0,600.0,connect,-58.0,On time
+34,558525,297962,connect,ended,-256.0,555341.0,30.0,connect,-24.0,On time
+35,559428,289720,connect,ended,-16.0,520878.0,90.0,connect,-42.0,On time
+36,559435,281955,mobile,ended,18.0,553797.0,60.0,mobile,-9.0,On time
+37,559781,408776,mobile,ended,44.0,540868.0,0.0,mobile,26.0,Late
+38,561368,249274,connect,ended,-3.0,558711.0,30.0,connect,10.0,Late
+39,561408,310444,connect,ended,-54.0,545475.0,360.0,connect,54.0,Late
+40,561450,192179,connect,ended,7.0,541144.0,540.0,connect,46.0,Late
+41,563552,241021,connect,ended,25.0,567278.0,60.0,connect,-425.0,On time
+42,564045,381123,mobile,ended,99.0,554558.0,660.0,mobile,-13.0,On time
+43,564414,195888,mobile,ended,20.0,564484.0,180.0,mobile,-347.0,On time
+44,564500,382884,mobile,ended,69.0,555024.0,420.0,mobile,63.0,Late
+45,564627,341431,mobile,canceled,,552005.0,150.0,mobile,-88.0,On time
+46,520147,392147,mobile,ended,1.0,536236.0,390.0,mobile,3.0,Late
+47,524487,380866,mobile,ended,-15.0,545830.0,120.0,mobile,58.0,Late
+48,529239,354515,mobile,ended,10.0,565896.0,360.0,mobile,-405.0,On time
+49,566661,390467,connect,ended,-651.0,569297.0,570.0,connect,-451.0,On time
+50,567120,415953,mobile,ended,27.0,567178.0,150.0,mobile,145.0,Late
+51,567278,241021,connect,ended,-425.0,563925.0,240.0,connect,-31.0,On time
+52,567636,376840,connect,ended,101.0,564959.0,0.0,connect,-2.0,On time
+53,568657,317378,connect,canceled,,566412.0,210.0,connect,-129.0,On time
+54,568817,314605,mobile,ended,43.0,565775.0,360.0,mobile,8.0,Late
+55,569498,402528,connect,ended,-173.0,562527.0,630.0,connect,-203.0,On time
+56,570350,365926,connect,ended,-55.0,570337.0,60.0,connect,-37.0,On time
+57,570819,353425,connect,ended,-17.0,573393.0,120.0,connect,-551.0,On time
+58,516550,377700,mobile,canceled,,545076.0,720.0,mobile,-35.0,On time
+59,522507,390927,connect,ended,183.0,523328.0,510.0,connect,-133.0,On time
+60,527981,358978,connect,ended,-60.0,541898.0,210.0,connect,-45.0,On time
+61,529128,382700,mobile,ended,6.0,506728.0,0.0,mobile,-67.0,On time
+62,529233,399528,connect,ended,-53.0,529252.0,480.0,connect,-104.0,On time
+63,573034,227100,mobile,ended,4.0,569554.0,120.0,mobile,-15.0,On time
+64,574568,301512,mobile,ended,110.0,572909.0,0.0,mobile,13.0,Late
+65,574868,371387,mobile,ended,-129.0,571864.0,720.0,mobile,-232.0,On time
+66,521865,401475,connect,ended,113.0,514932.0,540.0,connect,36.0,Late
+67,533364,344091,mobile,ended,31.0,536325.0,180.0,mobile,-23.0,On time
+68,535519,353425,connect,ended,-166.0,533413.0,0.0,connect,4.0,Late
+69,537441,408821,mobile,ended,25.0,541519.0,90.0,mobile,95.0,Late
+70,527199,388767,mobile,ended,-79.0,513582.0,180.0,mobile,28.0,Late
+71,536969,384479,mobile,ended,-29.0,539733.0,600.0,mobile,73.0,Late
+72,537215,313048,mobile,ended,-13.0,532312.0,0.0,mobile,-115.0,On time
+73,538136,175289,connect,ended,6.0,547208.0,570.0,connect,5.0,Late
+74,527226,321582,mobile,ended,97.0,536220.0,270.0,mobile,-10.0,On time
+75,528088,383110,connect,canceled,,546057.0,150.0,connect,-86.0,On time
+76,529301,320824,connect,ended,-308.0,551094.0,540.0,connect,-43.0,On time
+77,537841,265664,connect,ended,186.0,536761.0,240.0,connect,-3.0,On time
+78,538906,334190,connect,canceled,,556215.0,630.0,connect,77.0,Late
+79,539618,297119,mobile,ended,101.0,538807.0,30.0,mobile,7.0,Late
+80,540222,360474,connect,ended,71.0,539404.0,180.0,connect,-16.0,On time
+81,540924,374809,connect,ended,2.0,547311.0,240.0,connect,7.0,Late
+82,540942,325695,mobile,ended,2.0,536685.0,600.0,mobile,-79.0,On time
+83,541535,385642,mobile,ended,-21.0,543878.0,630.0,mobile,187.0,Late
+84,542320,377924,mobile,canceled,,541053.0,120.0,mobile,-126.0,On time
+85,542401,410393,mobile,ended,7.0,541971.0,180.0,mobile,137.0,Late
+86,542519,356106,connect,ended,27.0,545322.0,270.0,connect,-55.0,On time
+87,543625,366071,mobile,ended,2.0,538192.0,720.0,mobile,-64.0,On time
+88,544473,378931,mobile,ended,-4.0,536978.0,60.0,mobile,271.0,Late
+89,539328,333407,mobile,ended,-107.0,540590.0,90.0,mobile,-57.0,On time
+90,539760,216148,connect,ended,194.0,537416.0,0.0,connect,-12.0,On time
+91,540108,392813,mobile,ended,840.0,540368.0,120.0,mobile,102.0,Late
+92,543010,374169,connect,ended,42.0,536789.0,120.0,connect,-188.0,On time
+93,543108,376574,mobile,ended,23.0,514474.0,0.0,mobile,81.0,Late
+94,543513,404130,connect,ended,-82.0,541766.0,0.0,connect,-581.0,On time
+95,543822,362101,mobile,ended,-7.0,511338.0,30.0,mobile,-63.0,On time
+96,543866,406999,mobile,ended,14.0,541317.0,150.0,mobile,-48.0,On time
+97,544792,214635,connect,ended,40.0,545831.0,90.0,connect,11.0,Late
+98,545204,409750,mobile,ended,-50.0,544363.0,660.0,mobile,-81.0,On time
+99,539915,314455,mobile,canceled,,533006.0,180.0,mobile,,On time
+100,539987,383110,connect,ended,76.0,528385.0,480.0,connect,-11.0,On time
+101,540747,214635,connect,ended,-972.0,546332.0,60.0,connect,31.0,Late
+102,540885,294883,mobile,ended,18.0,542526.0,0.0,mobile,0.0,On time
+103,540892,402677,mobile,ended,205.0,540131.0,60.0,mobile,25.0,Late
+104,541445,385629,connect,ended,-221.0,544389.0,480.0,connect,23.0,Late
+105,541756,229646,mobile,ended,205.0,528516.0,60.0,mobile,13.0,Late
+106,542399,400945,mobile,ended,-144.0,535665.0,60.0,mobile,-51.0,On time
+107,543177,212965,connect,ended,,542904.0,240.0,connect,-21.0,On time
+108,543359,380813,mobile,ended,594.0,537074.0,0.0,mobile,-1.0,On time
+109,544373,344254,connect,ended,-77.0,549312.0,690.0,connect,-264.0,On time
+110,545152,392479,mobile,ended,-48.0,539624.0,510.0,mobile,,On time
+111,545177,390509,connect,ended,72.0,542725.0,720.0,connect,-52.0,On time
+112,546406,310518,mobile,ended,-8.0,545465.0,330.0,mobile,-51.0,On time
+113,526111,377781,mobile,ended,-2.0,539387.0,660.0,mobile,22.0,Late
+114,533570,271621,mobile,canceled,,561375.0,120.0,mobile,25.0,Late
+115,535030,407334,mobile,ended,69.0,537148.0,60.0,mobile,37.0,Late
+116,536022,383329,mobile,ended,14.0,539569.0,120.0,mobile,-4.0,On time
+117,536374,308579,mobile,ended,-59.0,537187.0,120.0,mobile,109.0,Late
+118,536722,387431,mobile,canceled,,536764.0,180.0,mobile,58.0,Late
+119,538330,379984,mobile,ended,31.0,532790.0,0.0,mobile,-9.0,On time
+120,539625,337217,mobile,ended,-95.0,537192.0,270.0,mobile,-253.0,On time
+121,535749,403430,mobile,ended,-74.0,536548.0,0.0,mobile,,On time
+122,539151,282893,mobile,canceled,,548646.0,30.0,mobile,201.0,Late
+123,539370,402235,mobile,ended,-105.0,542031.0,120.0,mobile,-32.0,On time
+124,546948,402528,connect,canceled,,556249.0,330.0,connect,-24.0,On time
+125,518569,277669,mobile,ended,14.0,523594.0,480.0,mobile,-56.0,On time
+126,528879,307983,connect,canceled,,537437.0,570.0,connect,-168.0,On time
+127,547062,396552,mobile,ended,27.0,513104.0,90.0,mobile,23.0,Late
+128,547655,375834,mobile,ended,89.0,548169.0,0.0,mobile,5.0,Late
+129,548863,409344,mobile,ended,7.0,547160.0,300.0,mobile,1.0,Late
+130,548864,396250,mobile,ended,527.0,550060.0,120.0,mobile,123.0,Late
+131,549128,367632,connect,canceled,,545710.0,0.0,connect,-7.0,On time
+132,549460,345080,connect,canceled,,550757.0,720.0,connect,-55.0,On time
+133,550095,298757,connect,ended,-14.0,548361.0,630.0,connect,-36.0,On time
+134,550504,405611,connect,ended,59.0,562977.0,630.0,connect,210.0,Late
+135,550564,333910,mobile,ended,-9.0,542509.0,120.0,mobile,30.0,Late
+136,550832,358082,connect,ended,34.0,549771.0,90.0,connect,-97.0,On time
+137,540784,310576,connect,ended,54.0,536453.0,0.0,connect,-36.0,On time
+138,541926,409589,mobile,ended,4.0,538736.0,150.0,mobile,52.0,Late
+139,545532,387939,connect,ended,7.0,546352.0,300.0,mobile,91.0,Late
+140,548933,355788,mobile,ended,-182.0,549479.0,720.0,mobile,60.0,Late
+141,549385,311265,mobile,ended,,548736.0,120.0,mobile,-66.0,On time
+142,549467,372779,mobile,ended,-62.0,547247.0,240.0,mobile,2.0,Late
+143,549471,334190,connect,ended,-89.0,554043.0,630.0,connect,15.0,Late
+144,551707,404424,mobile,ended,105.0,550671.0,0.0,mobile,105.0,Late
+145,548814,338940,mobile,ended,11.0,531952.0,450.0,mobile,320.0,Late
+146,549917,389958,mobile,ended,9.0,557743.0,720.0,mobile,45.0,Late
+147,551686,383110,connect,ended,-11.0,547672.0,150.0,connect,7.0,Late
+148,552756,374684,mobile,ended,-56.0,547550.0,600.0,mobile,-63.0,On time
+149,553139,297851,mobile,canceled,,547650.0,240.0,mobile,410.0,Late
+150,553859,402832,mobile,ended,,536133.0,0.0,mobile,,On time
+151,552002,338940,mobile,ended,,549387.0,480.0,mobile,,On time
+152,552049,404192,mobile,ended,1392.0,551936.0,150.0,mobile,925.0,Late
+153,552230,338940,mobile,ended,233.0,513740.0,30.0,mobile,83.0,Late
+154,553101,389521,mobile,ended,,565036.0,390.0,mobile,,On time
+155,553939,402528,connect,ended,-99.0,558730.0,0.0,connect,6.0,Late
+156,554170,402209,mobile,ended,-125.0,564541.0,390.0,mobile,102.0,Late
+157,554505,402562,connect,ended,-47.0,554934.0,0.0,connect,12.0,Late
+158,554791,382734,mobile,ended,-54.0,554944.0,720.0,mobile,37.0,Late
+159,555087,341105,mobile,ended,-152.0,541340.0,600.0,mobile,-79.0,On time
+160,555105,401281,connect,canceled,,549535.0,420.0,connect,-68.0,On time
+161,555116,339607,mobile,ended,-8.0,553008.0,720.0,mobile,64.0,Late
+162,555821,326578,mobile,ended,1143.0,558583.0,0.0,mobile,3.0,Late
+163,556870,391519,connect,ended,,555600.0,180.0,connect,-95.0,On time
+164,557318,334190,connect,ended,158.0,556215.0,660.0,connect,77.0,Late
+165,558448,383110,connect,ended,64.0,554348.0,150.0,connect,-20.0,On time
+166,559037,349171,connect,canceled,,552392.0,0.0,connect,46.0,Late
+167,559280,405938,mobile,canceled,,561282.0,60.0,mobile,-40.0,On time
+168,559430,357530,connect,ended,-7.0,558258.0,0.0,connect,2.0,Late
+169,521076,380708,connect,ended,103.0,539450.0,210.0,connect,194.0,Late
+170,531247,392368,connect,ended,-32.0,550614.0,60.0,connect,27.0,Late
+171,538564,393185,mobile,ended,-36.0,531229.0,0.0,mobile,-71.0,On time
+172,539838,295415,mobile,ended,2.0,541223.0,390.0,mobile,158.0,Late
+173,540785,403962,mobile,canceled,,533619.0,120.0,mobile,,On time
+174,541281,397046,mobile,ended,14.0,537194.0,210.0,mobile,189.0,Late
+175,541964,356106,connect,ended,-9.0,543577.0,0.0,connect,-13.0,On time
+176,542464,320824,connect,canceled,,554117.0,450.0,connect,-1084.0,On time
+177,542781,309723,mobile,ended,297.0,541286.0,30.0,mobile,31.0,Late
+178,543322,380647,connect,ended,,540701.0,630.0,connect,-110.0,On time
+179,543745,359045,connect,canceled,,521852.0,150.0,connect,650.0,Late
+180,543959,330013,mobile,canceled,,540896.0,540.0,mobile,-173.0,On time
+181,544363,409750,mobile,ended,-81.0,539021.0,120.0,mobile,-100.0,On time
+182,544317,361564,mobile,ended,-8.0,530202.0,120.0,mobile,21.0,Late
+183,545980,396009,connect,ended,1.0,549819.0,60.0,connect,-425.0,On time
+184,546387,352528,connect,canceled,,546578.0,600.0,connect,-536.0,On time
+185,546792,230201,connect,ended,-32.0,546832.0,0.0,connect,-8.0,On time
+186,546893,385629,connect,ended,-169.0,541445.0,0.0,connect,-221.0,On time
+187,546955,398802,mobile,ended,25.0,543655.0,360.0,mobile,73.0,Late
+188,547368,381754,mobile,ended,,547555.0,270.0,mobile,44.0,Late
+189,534856,319886,connect,ended,-40.0,556396.0,0.0,connect,-22.0,On time
+190,535326,377509,mobile,ended,-6.0,539365.0,60.0,mobile,28.0,Late
+191,536107,385721,connect,ended,62.0,525106.0,570.0,connect,-439.0,On time
+192,557368,375553,mobile,ended,11.0,549518.0,720.0,mobile,-86.0,On time
+193,557835,403558,mobile,ended,,554038.0,0.0,mobile,45.0,Late
+194,557878,386786,mobile,ended,5.0,553306.0,360.0,mobile,18.0,Late
+195,558634,380019,mobile,ended,183.0,546644.0,420.0,mobile,84.0,Late
+196,559213,290109,mobile,ended,-25.0,565976.0,600.0,mobile,-166.0,On time
+197,559756,405923,mobile,ended,-27.0,566173.0,120.0,mobile,-933.0,On time
+198,559922,338940,mobile,ended,,556330.0,180.0,mobile,-68.0,On time
+199,564693,408680,mobile,ended,-23.0,553639.0,0.0,mobile,37.0,Late
+200,538224,340014,connect,canceled,,534999.0,180.0,connect,346.0,Late
+201,539298,356407,mobile,ended,0.0,539220.0,30.0,mobile,1.0,Late
+202,539385,355817,mobile,ended,111.0,535816.0,0.0,mobile,209.0,Late
+203,539733,384479,mobile,ended,73.0,526536.0,660.0,mobile,-17.0,On time
+204,540372,385721,connect,ended,48.0,516961.0,0.0,connect,-32.0,On time
+205,541493,285241,connect,ended,226.0,562771.0,540.0,connect,35.0,Late
+206,541582,334190,connect,canceled,,539414.0,60.0,connect,-286.0,On time
+207,551242,406995,mobile,ended,132.0,537861.0,540.0,mobile,38.0,Late
+208,551310,319886,connect,ended,-636.0,565483.0,510.0,connect,-115.0,On time
+209,551372,261576,mobile,canceled,,547240.0,210.0,mobile,550.0,Late
+210,551958,403265,connect,canceled,,551363.0,0.0,mobile,,On time
+211,552168,412021,mobile,ended,-8.0,553299.0,360.0,mobile,13.0,Late
+212,559883,364783,mobile,ended,49.0,555469.0,660.0,mobile,616.0,Late
+213,560696,399528,connect,ended,-865.0,526657.0,600.0,connect,-181.0,On time
+214,524276,374486,mobile,ended,50.0,541215.0,510.0,mobile,47.0,Late
+215,528872,395598,mobile,ended,-8.0,548852.0,210.0,mobile,-101.0,On time
+216,532575,365926,connect,canceled,,537243.0,360.0,connect,242.0,Late
+217,533142,310553,connect,ended,,545223.0,360.0,connect,-45.0,On time
+218,561125,195977,connect,ended,-110.0,565777.0,30.0,connect,-2.0,On time
+219,562027,379931,mobile,ended,29.0,557945.0,30.0,mobile,-67.0,On time
+220,565610,385073,mobile,ended,-18.0,555340.0,120.0,mobile,-6.0,On time
+221,566508,307439,mobile,ended,319.0,559522.0,90.0,mobile,63.0,Late
+222,566923,346519,mobile,ended,-43.0,563977.0,360.0,mobile,23.0,Late
+223,567517,358103,mobile,ended,5.0,561286.0,0.0,mobile,10.0,Late
+224,568976,375834,mobile,ended,91.0,566493.0,60.0,mobile,-32.0,On time
+225,505560,320824,connect,ended,-137.0,532695.0,120.0,connect,0.0,On time
+226,510586,393908,mobile,ended,0.0,525150.0,300.0,mobile,49.0,Late
+227,523250,364907,connect,ended,-16.0,549567.0,30.0,connect,6.0,Late
+228,533798,404688,mobile,ended,-27.0,524948.0,270.0,mobile,8.0,Late
+229,563443,342699,connect,ended,-1.0,566561.0,570.0,connect,-13.0,On time
+230,564518,389104,mobile,ended,7.0,546382.0,30.0,mobile,-35.0,On time
+231,565759,409863,mobile,ended,266.0,564788.0,30.0,mobile,-126.0,On time
+232,518368,368132,mobile,ended,-77.0,535618.0,720.0,mobile,-40.0,On time
+233,519493,389219,mobile,ended,19.0,515851.0,120.0,mobile,-5.0,On time
+234,520878,289720,connect,ended,-42.0,540741.0,120.0,connect,4.0,Late
+235,521403,316678,connect,ended,-31.0,558030.0,60.0,connect,-158.0,On time
+236,530724,397728,mobile,ended,5.0,572331.0,270.0,mobile,49.0,Late
+237,521969,354493,mobile,ended,-54.0,518353.0,210.0,mobile,17.0,Late
+238,531952,338940,mobile,ended,320.0,542671.0,0.0,mobile,6.0,Late
+239,533904,228703,connect,ended,-21.0,519407.0,330.0,connect,-1061.0,On time
+240,535690,313432,mobile,ended,84.0,539109.0,60.0,mobile,58.0,Late
+241,535914,265239,connect,ended,44.0,538830.0,120.0,connect,34.0,Late
+242,536610,328866,mobile,ended,-58.0,549011.0,0.0,mobile,-47.0,On time
+243,537518,350149,mobile,ended,267.0,538529.0,60.0,mobile,86.0,Late
+244,552949,352528,connect,ended,-119.0,546489.0,270.0,connect,-533.0,On time
+245,553294,394380,mobile,ended,-113.0,540105.0,720.0,mobile,8.0,Late
+246,554062,394024,mobile,ended,-48.0,562173.0,0.0,mobile,73.0,Late
+247,554280,401475,connect,ended,39.0,553682.0,450.0,connect,37.0,Late
+248,542971,314456,connect,ended,-26.0,533380.0,690.0,connect,-167.0,On time
+249,543277,265239,connect,ended,-63.0,535914.0,360.0,connect,44.0,Late
+250,543283,314897,mobile,ended,-56.0,540735.0,720.0,mobile,-14.0,On time
+251,543582,347660,connect,ended,-712.0,539424.0,420.0,connect,-117.0,On time
+252,543877,294189,mobile,ended,,512773.0,360.0,mobile,136.0,Late
+253,544819,401470,mobile,ended,39.0,543823.0,570.0,mobile,612.0,Late
+254,545022,363918,mobile,ended,489.0,545032.0,60.0,mobile,-549.0,On time
+255,554942,382444,mobile,ended,-11.0,563834.0,240.0,mobile,-2.0,On time
+256,555503,346305,mobile,ended,-17.0,537219.0,180.0,mobile,-185.0,On time
+257,556401,339138,connect,ended,62.0,565263.0,0.0,connect,-119.0,On time
+258,557023,302561,connect,ended,-25.0,558162.0,60.0,connect,-105.0,On time
+259,558403,380407,mobile,ended,4.0,547147.0,0.0,mobile,-240.0,On time
+260,559450,366199,connect,ended,-24.0,547522.0,120.0,connect,-1172.0,On time
+261,559963,331900,mobile,ended,66.0,559063.0,30.0,mobile,63.0,Late
+262,560479,384567,connect,ended,32.0,559510.0,90.0,connect,-35.0,On time
+263,560548,351024,mobile,ended,6.0,508535.0,90.0,mobile,102.0,Late
+264,561744,413333,mobile,ended,-3.0,564275.0,600.0,mobile,-235.0,On time
+265,569053,393982,mobile,ended,129.0,563562.0,630.0,mobile,21.0,Late
+266,569211,348551,mobile,ended,115.0,558223.0,330.0,mobile,251.0,Late
+267,569313,367919,connect,ended,384.0,545720.0,0.0,connect,8.0,Late
+268,569366,364783,mobile,canceled,,563995.0,0.0,mobile,,On time
+269,570922,365926,connect,ended,-47.0,573294.0,510.0,connect,9.0,Late
+270,572521,347208,connect,ended,-875.0,571139.0,180.0,connect,-90.0,On time
+271,572859,404128,connect,ended,725.0,571634.0,180.0,connect,12.0,Late
+272,573135,396755,mobile,canceled,,547901.0,90.0,mobile,1.0,Late
+273,506161,369881,connect,ended,6.0,549345.0,30.0,connect,22.0,Late
+274,516737,288953,mobile,ended,-868.0,517435.0,30.0,mobile,-113.0,On time
+275,521258,371933,mobile,ended,-197.0,555541.0,180.0,mobile,19.0,Late
+276,526536,384479,mobile,ended,-17.0,538761.0,690.0,mobile,98.0,Late
+277,533317,381029,mobile,ended,1.0,539720.0,90.0,mobile,-534.0,On time
+278,562717,402083,connect,ended,493.0,561928.0,360.0,connect,154.0,Late
+279,548050,300505,connect,ended,-538.0,541486.0,0.0,connect,12.0,Late
+280,548388,297511,mobile,ended,160.0,546459.0,420.0,mobile,12968.0,Late
+281,548718,399575,connect,ended,73.0,558387.0,630.0,connect,81.0,Late
+282,549001,394380,mobile,canceled,,545839.0,660.0,mobile,28.0,Late
+283,549270,405622,mobile,ended,21.0,549855.0,450.0,mobile,24.0,Late
+284,550250,403153,mobile,ended,-102.0,547495.0,630.0,mobile,393.0,Late
+285,550392,288953,mobile,ended,-23.0,547476.0,150.0,mobile,2.0,Late
+286,550830,374298,connect,ended,-200.0,550317.0,90.0,connect,11.0,Late
+287,563362,192643,mobile,ended,,562736.0,270.0,mobile,,On time
+288,563387,366164,connect,ended,-146.0,536892.0,360.0,connect,17.0,Late
+289,563572,264457,mobile,ended,92.0,566229.0,240.0,mobile,242.0,Late
+290,563721,413181,mobile,ended,2.0,560542.0,150.0,mobile,4.0,Late
+291,564039,356106,connect,ended,,563781.0,0.0,connect,90.0,Late
+292,564819,394928,connect,ended,-126.0,567186.0,540.0,connect,2.0,Late
+293,566398,241021,connect,ended,-288.0,568399.0,0.0,connect,-57.0,On time
+294,567288,386259,connect,ended,-86.0,559685.0,180.0,connect,-217.0,On time
+295,567968,223850,mobile,ended,-6.0,561253.0,210.0,mobile,83.0,Late
+296,568105,351546,connect,canceled,,564144.0,120.0,connect,210.0,Late
+297,568141,224728,mobile,ended,37.0,567789.0,30.0,mobile,-130.0,On time
+298,568287,410255,connect,ended,,567264.0,30.0,connect,183.0,Late
+299,568439,368432,mobile,ended,-25.0,560404.0,90.0,mobile,-66.0,On time
+300,568967,364907,connect,ended,37.0,555169.0,60.0,mobile,,On time
+301,569297,390467,connect,ended,-451.0,566704.0,150.0,connect,,On time
+302,569683,310444,connect,ended,77.0,565569.0,450.0,connect,-110.0,On time
+303,570039,363377,mobile,ended,17.0,562077.0,180.0,mobile,100.0,Late
+304,522151,259952,mobile,ended,-97.0,550409.0,0.0,mobile,26.0,Late
+305,522860,385774,mobile,ended,,543476.0,60.0,mobile,63.0,Late
+306,527468,216148,connect,ended,-143.0,542805.0,690.0,connect,77.0,Late
+307,531610,403239,mobile,ended,39.0,522490.0,60.0,mobile,,On time
+308,538181,397333,mobile,ended,704.0,540525.0,0.0,mobile,-11.0,On time
+309,538584,406994,mobile,ended,9.0,533472.0,330.0,mobile,108.0,Late
+310,532113,365926,connect,canceled,,537243.0,300.0,connect,242.0,Late
+311,536185,394555,connect,ended,87.0,538270.0,690.0,connect,-43.0,On time
+312,532141,377670,connect,ended,-10.0,552933.0,150.0,connect,-145.0,On time
+313,534768,287544,mobile,ended,164.0,531476.0,120.0,mobile,-5.0,On time
+314,572248,195977,connect,canceled,,569301.0,180.0,connect,62.0,Late
+315,573479,402209,mobile,ended,-28.0,554170.0,690.0,mobile,-125.0,On time
+316,573546,390467,connect,ended,-7.0,572236.0,60.0,connect,-88.0,On time
+317,537290,340112,mobile,ended,83.0,539219.0,300.0,mobile,,On time
+318,537598,338935,mobile,ended,188.0,537023.0,60.0,mobile,78.0,Late
+319,539674,344254,connect,ended,125.0,541533.0,60.0,connect,-150.0,On time
+320,540722,321069,mobile,ended,224.0,512562.0,360.0,mobile,104.0,Late
+321,538160,216701,mobile,ended,-21.0,524146.0,90.0,mobile,155.0,Late
+322,540583,194340,connect,ended,-133.0,541969.0,30.0,connect,43.0,Late
+323,540952,389785,connect,ended,-295.0,527270.0,540.0,connect,3.0,Late
+324,541826,404130,connect,ended,97.0,543513.0,30.0,connect,-82.0,On time
+325,543124,363658,mobile,ended,146.0,542107.0,180.0,mobile,-16.0,On time
+326,544337,311923,connect,ended,21.0,563869.0,510.0,connect,-43.0,On time
+327,544376,373233,mobile,ended,121.0,544861.0,60.0,mobile,17.0,Late
+328,566060,394656,connect,ended,5.0,564793.0,240.0,connect,54.0,Late
+329,552250,409539,mobile,ended,100.0,560505.0,600.0,mobile,6.0,Late
+330,552544,341648,mobile,ended,-545.0,557072.0,330.0,mobile,13.0,Late
+331,553553,408883,mobile,ended,8.0,564585.0,0.0,mobile,17.0,Late
+332,557183,410939,connect,canceled,,565171.0,0.0,connect,-15.0,On time
+333,538211,280805,connect,ended,-195.0,530261.0,60.0,connect,28.0,Late
+334,539300,351319,mobile,ended,-77.0,535020.0,0.0,mobile,28.0,Late
+335,540199,312078,connect,ended,-19.0,538207.0,0.0,connect,-128.0,On time
+336,541143,387753,connect,ended,-82.0,539236.0,510.0,connect,-261.0,On time
+337,541640,391338,mobile,ended,-28.0,534025.0,60.0,mobile,-2.0,On time
+338,542801,345865,connect,ended,-32.0,537406.0,90.0,connect,-18.0,On time
+339,542830,328900,connect,ended,265.0,508109.0,0.0,connect,-151.0,On time
+340,543115,381914,mobile,ended,7.0,541395.0,300.0,mobile,61.0,Late
+341,543401,215979,mobile,ended,13.0,542150.0,210.0,mobile,12.0,Late
+342,543559,392241,connect,ended,42.0,538768.0,120.0,connect,271.0,Late
+343,544566,355444,connect,ended,-39.0,541239.0,150.0,connect,33.0,Late
+344,544979,392479,mobile,ended,183.0,547804.0,120.0,mobile,-958.0,On time
+345,544947,392368,connect,ended,-42.0,553290.0,720.0,connect,-23.0,On time
+346,545207,407411,mobile,ended,-89.0,532724.0,570.0,mobile,16.0,Late
+347,545618,305525,connect,ended,43.0,543394.0,570.0,connect,-12.0,On time
+348,546313,404476,mobile,ended,,540360.0,210.0,mobile,,On time
+349,546532,407632,mobile,ended,6.0,546199.0,720.0,mobile,-66.0,On time
+350,546561,346755,connect,canceled,,569802.0,270.0,connect,92.0,Late
+351,546930,316449,mobile,canceled,,551866.0,0.0,mobile,153.0,Late
+352,547130,411325,mobile,ended,22.0,545629.0,0.0,mobile,81.0,Late
+353,547311,374809,connect,ended,7.0,539330.0,90.0,connect,20.0,Late
+354,548957,382444,mobile,canceled,,541126.0,240.0,mobile,72.0,Late
+355,549535,401281,connect,ended,-68.0,530729.0,690.0,connect,-4.0,On time
+356,550277,375128,connect,ended,-28.0,549044.0,240.0,connect,41.0,Late
+357,550566,373889,mobile,ended,70.0,542811.0,120.0,mobile,-32.0,On time
+358,550654,357007,mobile,ended,30.0,508605.0,30.0,mobile,-43.0,On time
+359,551160,383949,mobile,ended,-52.0,545467.0,90.0,mobile,50.0,Late
+360,551987,341840,mobile,ended,68.0,529556.0,150.0,mobile,-580.0,On time
+361,540971,409908,mobile,ended,,540186.0,30.0,mobile,,On time
+362,541646,364890,mobile,ended,621.0,538703.0,210.0,mobile,,On time
+363,541751,394928,connect,ended,-47.0,544799.0,600.0,connect,-59.0,On time
+364,543788,377071,mobile,ended,0.0,538874.0,30.0,mobile,2.0,Late
+365,544198,263232,mobile,ended,83.0,538218.0,300.0,mobile,273.0,Late
+366,544741,374290,mobile,ended,-36.0,532043.0,180.0,mobile,101.0,Late
+367,545070,398326,mobile,ended,0.0,544957.0,270.0,mobile,13.0,Late
+368,545233,366371,connect,ended,-81.0,517688.0,720.0,connect,-245.0,On time
+369,546056,408509,mobile,ended,72.0,549516.0,120.0,mobile,-96.0,On time
+370,548307,404571,mobile,ended,-4.0,532798.0,90.0,mobile,45.0,Late
+371,558441,358225,mobile,ended,4.0,552053.0,0.0,mobile,11.0,Late
+372,559527,385178,connect,canceled,,555186.0,330.0,connect,-301.0,On time
+373,559976,344254,connect,ended,51.0,558129.0,60.0,connect,-185.0,On time
+374,545594,392479,mobile,ended,22.0,538397.0,570.0,mobile,-301.0,On time
+375,545750,393968,connect,ended,-11.0,548306.0,600.0,connect,27.0,Late
+376,545916,307364,connect,ended,-77.0,545822.0,30.0,connect,26.0,Late
+377,546070,313952,mobile,ended,238.0,569185.0,570.0,mobile,-85.0,On time
+378,547872,338243,connect,ended,83.0,549555.0,600.0,connect,-154.0,On time
+379,548110,379908,mobile,ended,-52.0,542260.0,720.0,mobile,45.0,Late
+380,545984,305525,connect,ended,-253.0,545963.0,720.0,connect,-33.0,On time
+381,546636,399528,connect,ended,4.0,545268.0,540.0,connect,23.0,Late
+382,548185,385295,mobile,ended,129.0,538747.0,600.0,mobile,-9.0,On time
+383,548272,317330,connect,ended,-21.0,548279.0,0.0,connect,-692.0,On time
+384,548867,217819,mobile,ended,-134.0,544074.0,270.0,mobile,-46.0,On time
+385,548952,356630,mobile,ended,-88.0,523527.0,720.0,mobile,-66.0,On time
+386,550479,265239,connect,ended,51.0,520615.0,0.0,connect,-22.0,On time
+387,552131,406551,connect,canceled,,545126.0,60.0,connect,-46.0,On time
+388,552365,404130,connect,ended,12.0,553206.0,480.0,connect,18.0,Late
+389,521986,369845,mobile,canceled,,553278.0,630.0,mobile,-32.0,On time
+390,522640,394543,mobile,ended,21.0,546468.0,60.0,mobile,-40.0,On time
+391,533456,368432,mobile,ended,-2.0,539640.0,600.0,mobile,-12.0,On time
+392,533596,352799,mobile,ended,46.0,538423.0,720.0,mobile,-1.0,On time
+393,553302,368432,mobile,ended,-104.0,567818.0,570.0,mobile,-986.0,On time
+394,553719,391519,connect,canceled,,562244.0,540.0,connect,,On time
+395,553836,340616,connect,ended,54.0,553933.0,30.0,connect,-341.0,On time
+396,554383,159533,connect,ended,41.0,512682.0,330.0,connect,-125.0,On time
+397,554407,310049,mobile,ended,76.0,551523.0,120.0,mobile,-20.0,On time
+398,549968,377004,mobile,ended,52.0,550088.0,30.0,mobile,142.0,Late
+399,550240,407865,mobile,ended,15.0,550984.0,120.0,mobile,-10.0,On time
+400,550994,303309,connect,ended,31.0,549854.0,720.0,connect,-46.0,On time
+401,551565,356673,mobile,ended,176.0,548460.0,60.0,mobile,30.0,Late
+402,551667,350149,mobile,ended,272.0,555318.0,150.0,mobile,29.0,Late
+403,552075,364038,mobile,ended,0.0,514557.0,30.0,mobile,-1.0,On time
+404,552116,363280,mobile,ended,4.0,519547.0,540.0,mobile,73.0,Late
+405,552264,376491,connect,ended,-15.0,551892.0,30.0,connect,-96.0,On time
+406,552598,376840,connect,ended,10.0,549549.0,540.0,connect,-153.0,On time
+407,553308,368432,mobile,ended,-133.0,562021.0,630.0,mobile,-2.0,On time
+408,554174,312622,mobile,ended,11.0,554035.0,60.0,mobile,0.0,On time
+409,554183,362187,connect,ended,-426.0,556500.0,180.0,connect,15.0,Late
+410,554235,394801,mobile,ended,7.0,559412.0,30.0,mobile,-28.0,On time
+411,554905,314687,mobile,ended,-28.0,552745.0,60.0,mobile,-82.0,On time
+412,554994,391519,connect,canceled,,556870.0,660.0,connect,,On time
+413,549565,390692,mobile,ended,78.0,530304.0,0.0,mobile,39.0,Late
+414,549943,403313,mobile,ended,,539950.0,0.0,mobile,,On time
+415,550632,308073,connect,ended,,548622.0,720.0,connect,29.0,Late
+416,551141,372115,mobile,ended,24.0,550285.0,660.0,mobile,-31.0,On time
+417,551925,336629,mobile,ended,-21.0,550453.0,0.0,mobile,8.0,Late
+418,551997,398886,mobile,ended,205.0,550567.0,60.0,mobile,-58.0,On time
+419,552303,354138,mobile,ended,-11.0,566927.0,570.0,mobile,142.0,Late
+420,553523,412539,mobile,ended,1489.0,552169.0,480.0,mobile,-262.0,On time
+421,552787,378754,connect,canceled,,549036.0,0.0,connect,-148.0,On time
+422,553646,274001,mobile,ended,7.0,539712.0,120.0,mobile,134.0,Late
+423,555143,320834,connect,ended,25.0,564613.0,120.0,connect,28.0,Late
+424,555258,229646,mobile,ended,79.0,550583.0,450.0,mobile,3.0,Late
+425,555641,368724,mobile,ended,24.0,565544.0,60.0,mobile,-22.0,On time
+426,556500,362187,connect,ended,15.0,555592.0,60.0,connect,-106.0,On time
+427,557709,404542,mobile,canceled,,555077.0,180.0,mobile,76.0,Late
+428,557928,383344,connect,ended,,540817.0,60.0,connect,105.0,Late
+429,558317,380069,mobile,ended,,561985.0,0.0,mobile,,On time
+430,556319,383462,connect,ended,55.0,558174.0,660.0,connect,-1.0,On time
+431,556825,404130,connect,ended,-7.0,551494.0,720.0,connect,-111.0,On time
+432,557619,320438,mobile,ended,17.0,556077.0,150.0,mobile,-20.0,On time
+433,558258,357530,connect,ended,2.0,557097.0,690.0,connect,-49.0,On time
+434,559316,414201,mobile,ended,30.0,557671.0,690.0,mobile,-54.0,On time
+435,559594,291932,connect,ended,-408.0,556581.0,150.0,connect,-18.0,On time
+436,559739,308181,connect,ended,8.0,564990.0,120.0,connect,133.0,Late
+437,559788,397599,mobile,ended,54.0,559390.0,630.0,mobile,-159.0,On time
+438,559886,347011,mobile,ended,140.0,557366.0,60.0,mobile,62.0,Late
+439,559934,192643,mobile,ended,,558833.0,630.0,mobile,,On time
+440,560682,305452,mobile,ended,139.0,553996.0,570.0,mobile,-81.0,On time
+441,562014,353425,connect,canceled,,550306.0,60.0,connect,-58.0,On time
+442,563218,397592,mobile,ended,93.0,560585.0,60.0,mobile,,On time
+443,563661,338584,connect,ended,-38.0,567637.0,630.0,connect,-166.0,On time
+444,556970,403644,mobile,ended,45.0,556081.0,30.0,mobile,-6.0,On time
+445,557344,381994,mobile,ended,53.0,554398.0,60.0,mobile,14.0,Late
+446,557404,181625,connect,ended,-352.0,554077.0,120.0,connect,6.0,Late
+447,558733,320824,connect,ended,36.0,554117.0,150.0,connect,-1084.0,On time
+448,559077,355444,connect,ended,0.0,554528.0,240.0,connect,-32.0,On time
+449,561219,295860,mobile,ended,-5.0,574786.0,60.0,mobile,65.0,Late
+450,562075,403430,mobile,ended,70.0,554144.0,720.0,mobile,21.0,Late
+451,560938,407636,connect,ended,-50.0,555004.0,660.0,connect,-71.0,On time
+452,537360,367365,connect,ended,-370.0,543323.0,630.0,connect,2.0,Late
+453,554746,334118,mobile,ended,-171.0,548107.0,30.0,mobile,-277.0,On time
+454,556014,245154,connect,canceled,,566170.0,210.0,connect,-2.0,On time
+455,556362,351153,mobile,ended,17.0,554711.0,720.0,mobile,1.0,Late
+456,556385,359978,mobile,ended,,554772.0,720.0,mobile,,On time
+457,559087,383485,mobile,canceled,,559072.0,60.0,mobile,-56.0,On time
+458,564691,361789,mobile,ended,-97.0,560638.0,690.0,mobile,-892.0,On time
+459,565591,381787,connect,ended,-4.0,572671.0,720.0,connect,12.0,Late
+460,566264,401475,connect,ended,-55.0,517671.0,660.0,connect,-249.0,On time
+461,566648,383110,connect,ended,-77.0,568065.0,480.0,connect,-64.0,On time
+462,566774,377591,connect,ended,281.0,544588.0,0.0,connect,50.0,Late
+463,516961,385721,connect,ended,-32.0,542219.0,0.0,connect,0.0,On time
+464,519713,324640,mobile,ended,-10.0,553902.0,420.0,mobile,-128.0,On time
+465,525837,244848,connect,ended,172.0,543686.0,120.0,connect,-11.0,On time
+466,534378,402469,mobile,ended,-15.0,540696.0,510.0,mobile,-109.0,On time
+467,535209,383540,mobile,ended,3.0,538639.0,330.0,mobile,38.0,Late
+468,558633,336650,connect,ended,19.0,557424.0,0.0,connect,,On time
+469,558702,376840,connect,ended,-164.0,552598.0,690.0,connect,10.0,Late
+470,558813,403430,mobile,ended,254.0,562075.0,660.0,mobile,70.0,Late
+471,559552,226317,mobile,ended,,550534.0,0.0,mobile,,On time
+472,561351,385073,mobile,ended,-37.0,560872.0,690.0,mobile,-56.0,On time
+473,561935,347464,connect,ended,116.0,566651.0,300.0,connect,32.0,Late
+474,562071,288973,mobile,ended,-232.0,572580.0,30.0,mobile,-12.0,On time
+475,563248,385625,connect,ended,6.0,556513.0,0.0,connect,-68.0,On time
+476,565877,351319,mobile,ended,-1148.0,561309.0,660.0,mobile,-577.0,On time
+477,561947,390927,connect,ended,40.0,537960.0,660.0,connect,31.0,Late
+478,562199,392479,mobile,ended,77.0,545594.0,720.0,mobile,22.0,Late
+479,562848,272430,connect,ended,-63.0,564600.0,330.0,connect,-61.0,On time
+480,563652,299063,connect,ended,-22.0,561530.0,270.0,connect,-5.0,On time
+481,564127,389565,connect,ended,81.0,565814.0,510.0,connect,48.0,Late
+482,564546,384396,connect,canceled,,561260.0,690.0,connect,-75.0,On time
+483,565171,410939,connect,ended,-15.0,567442.0,240.0,connect,-353.0,On time
+484,568054,293992,mobile,ended,1147.0,562269.0,60.0,mobile,,On time
+485,568539,375126,connect,ended,139.0,566798.0,630.0,connect,50.0,Late
+486,569145,300505,connect,ended,46.0,560610.0,90.0,connect,-54.0,On time
+487,569162,274949,mobile,canceled,,565577.0,210.0,mobile,-259.0,On time
+488,569445,346305,mobile,ended,-62.0,560681.0,180.0,mobile,-21.0,On time
+489,572853,366164,connect,ended,39.0,569272.0,360.0,connect,7.0,Late
+490,565760,386413,connect,ended,-2.0,550806.0,0.0,connect,-18.0,On time
+491,559950,380128,mobile,ended,-68.0,557700.0,360.0,mobile,315.0,Late
+492,561311,200364,mobile,canceled,,509972.0,480.0,mobile,-664.0,On time
+493,561480,364652,connect,ended,-48.0,564545.0,60.0,connect,-90.0,On time
+494,561586,376642,mobile,ended,-53.0,557899.0,630.0,mobile,-25.0,On time
+495,561882,356630,mobile,ended,-19.0,563870.0,0.0,mobile,-731.0,On time
+496,524637,348225,mobile,ended,37.0,550539.0,0.0,mobile,-59.0,On time
+497,567020,216576,connect,ended,-470.0,563059.0,150.0,connect,-24.0,On time
+498,568119,342699,connect,ended,14.0,563443.0,30.0,connect,-1.0,On time
+499,568302,363387,mobile,ended,-56.0,569781.0,450.0,mobile,-687.0,On time
+500,515626,324197,mobile,ended,62.0,525338.0,210.0,mobile,19.0,Late
+501,515855,400293,mobile,ended,-83.0,540635.0,570.0,mobile,,On time
+502,517688,366371,connect,ended,-245.0,539108.0,0.0,connect,-39.0,On time
+503,525787,372809,connect,ended,10.0,561211.0,600.0,connect,-134.0,On time
+504,526660,367632,connect,canceled,,563613.0,720.0,connect,11.0,Late
+505,529626,324821,connect,ended,66.0,537033.0,720.0,connect,8.0,Late
+506,532543,397470,mobile,ended,-5.0,537576.0,150.0,mobile,18.0,Late
+507,569030,401542,mobile,ended,,564977.0,480.0,mobile,19.0,Late
+508,509463,339189,connect,ended,75.0,527519.0,360.0,mobile,137.0,Late
+509,511425,351146,mobile,ended,26.0,555546.0,90.0,mobile,2.0,Late
+510,513104,396552,mobile,ended,23.0,535313.0,720.0,mobile,23.0,Late
+511,524355,385972,mobile,ended,1.0,548080.0,660.0,mobile,34.0,Late
+512,536038,390702,connect,ended,37.0,554652.0,660.0,connect,-24.0,On time
+513,536509,281116,mobile,ended,-79.0,529888.0,180.0,mobile,169.0,Late
+514,537133,340868,connect,ended,24.0,532994.0,60.0,connect,-59.0,On time
+515,567303,356630,mobile,ended,69.0,561882.0,180.0,mobile,-19.0,On time
+516,568361,324821,connect,ended,-8.0,564684.0,90.0,connect,-26.0,On time
+517,572403,390467,connect,ended,,573546.0,360.0,connect,-7.0,On time
+518,576292,181625,connect,ended,9.0,573698.0,90.0,connect,61.0,Late
+519,512171,395608,mobile,ended,5.0,535039.0,180.0,mobile,62.0,Late
+520,516667,380833,mobile,canceled,,538592.0,30.0,mobile,-544.0,On time
+521,526948,214635,connect,ended,29.0,522667.0,180.0,connect,119.0,Late
+522,527925,401281,connect,ended,-96.0,535185.0,60.0,connect,-500.0,On time
+523,538657,404146,mobile,ended,-36.0,538335.0,720.0,mobile,-128.0,On time
+524,538820,261263,mobile,ended,-35.0,533521.0,180.0,mobile,20.0,Late
+525,539171,372878,mobile,ended,-8.0,543033.0,60.0,mobile,-45.0,On time
+526,541178,392635,mobile,ended,86.0,523175.0,0.0,mobile,2976.0,Late
+527,542245,383255,mobile,ended,451.0,539006.0,240.0,mobile,94.0,Late
+528,542392,379751,connect,ended,-33.0,541396.0,0.0,connect,33.0,Late
+529,543696,347208,connect,ended,-141.0,538244.0,510.0,connect,23.0,Late
+530,543791,391153,mobile,ended,310.0,544230.0,720.0,mobile,9.0,Late
+531,544030,404771,mobile,ended,72.0,543848.0,120.0,mobile,20.0,Late
+532,544902,387939,connect,ended,32.0,545532.0,510.0,connect,7.0,Late
+533,545784,404020,mobile,ended,-11.0,543175.0,30.0,mobile,4.0,Late
+534,546464,389785,connect,ended,-1.0,550903.0,690.0,connect,-18.0,On time
+535,546557,311923,connect,ended,-470.0,539744.0,240.0,connect,-104.0,On time
+536,547047,337047,mobile,ended,-53.0,544443.0,30.0,mobile,56.0,Late
+537,547589,373367,mobile,ended,-3.0,545463.0,60.0,mobile,40.0,Late
+538,547981,372924,mobile,ended,36.0,550415.0,210.0,mobile,144.0,Late
+539,548868,356434,mobile,ended,-4.0,551652.0,0.0,mobile,-3.0,On time
+540,549430,366071,mobile,ended,-3.0,551575.0,180.0,mobile,22.0,Late
+541,549647,369542,connect,ended,53.0,563235.0,480.0,connect,-107.0,On time
+542,549659,367608,connect,ended,-72.0,548833.0,120.0,connect,75.0,Late
+543,550664,327336,mobile,canceled,,546653.0,420.0,mobile,-77.0,On time
+544,551308,342067,mobile,ended,42.0,545062.0,0.0,mobile,-98.0,On time
+545,552074,412682,mobile,ended,71.0,564237.0,240.0,mobile,13.0,Late
+546,553045,407524,mobile,ended,106.0,554266.0,480.0,mobile,106.0,Late
+547,555798,388540,mobile,ended,-33.0,552353.0,30.0,mobile,-33.0,On time
+548,556126,396250,mobile,canceled,,548864.0,510.0,mobile,527.0,Late
+549,558379,350769,mobile,ended,-73.0,537483.0,540.0,mobile,34.0,Late
+550,558490,403749,mobile,ended,-59.0,554954.0,60.0,mobile,-152.0,On time
+551,559326,412623,mobile,ended,46.0,557439.0,180.0,mobile,64.0,Late
+552,568175,415726,mobile,ended,34.0,567093.0,180.0,mobile,-2.0,On time
+553,568573,342699,connect,ended,11.0,568298.0,60.0,connect,7.0,Late
+554,571892,339138,connect,ended,20.0,571215.0,90.0,connect,0.0,On time
+555,573065,407084,mobile,ended,-105.0,569017.0,360.0,mobile,111.0,Late
+556,564168,382444,mobile,ended,-86.0,553599.0,90.0,mobile,0.0,On time
+557,564574,375421,connect,ended,34.0,515659.0,330.0,connect,-1.0,On time
+558,565262,333753,mobile,ended,163.0,564522.0,240.0,mobile,95.0,Late
+559,565247,406625,connect,ended,0.0,561277.0,0.0,connect,39.0,Late
+560,565672,216148,connect,ended,-111.0,553717.0,150.0,connect,-46.0,On time
+561,565728,374486,mobile,ended,50.0,569229.0,360.0,mobile,46.0,Late
+562,565815,298466,mobile,ended,-40.0,567964.0,150.0,mobile,-22.0,On time
+563,565991,407389,mobile,ended,-70.0,567843.0,150.0,mobile,93.0,Late
+564,566349,384657,connect,ended,199.0,561722.0,690.0,connect,224.0,Late
+565,567086,386325,mobile,ended,-181.0,566591.0,720.0,mobile,-31.0,On time
+566,567140,402308,mobile,ended,687.0,561807.0,0.0,mobile,-3.0,On time
+567,567806,216701,mobile,canceled,,567644.0,690.0,mobile,-1408.0,On time
+568,568251,404629,mobile,ended,789.0,565555.0,60.0,mobile,101.0,Late
+569,568659,317378,connect,canceled,,566412.0,600.0,connect,-129.0,On time
+570,569293,364670,mobile,canceled,,568767.0,0.0,mobile,-78.0,On time
+571,570447,396289,mobile,ended,26.0,561080.0,180.0,mobile,107.0,Late
+572,572279,311943,mobile,ended,,571616.0,690.0,mobile,,On time
+573,572714,298466,mobile,ended,218.0,565815.0,30.0,mobile,-40.0,On time
+574,574151,241021,connect,ended,3.0,572285.0,720.0,connect,-101.0,On time
+575,574638,414681,mobile,ended,7.0,572181.0,180.0,mobile,147.0,Late
+576,535939,386259,connect,ended,-151.0,538439.0,720.0,connect,-171.0,On time
+577,537063,306601,mobile,ended,44.0,557027.0,420.0,mobile,,On time
+578,537161,376760,connect,ended,-52.0,539557.0,90.0,connect,21.0,Late
+579,534414,349861,mobile,ended,-130.0,539791.0,690.0,mobile,670.0,Late
+580,533591,377172,mobile,ended,33.0,540059.0,180.0,mobile,1.0,Late
+581,536697,316042,mobile,ended,-4.0,566005.0,0.0,mobile,354.0,Late
+582,537210,401673,mobile,canceled,,537250.0,60.0,mobile,-663.0,On time
+583,538252,280227,connect,ended,-12.0,551501.0,660.0,connect,-476.0,On time
+584,538716,356673,mobile,ended,90.0,529144.0,0.0,mobile,-5.0,On time
+585,538844,365926,connect,ended,-136.0,537243.0,300.0,connect,242.0,Late
+586,538994,324821,connect,ended,-66.0,529626.0,600.0,connect,66.0,Late
+587,541046,357005,mobile,ended,226.0,565872.0,420.0,mobile,62.0,Late
+588,541155,336886,mobile,ended,39.0,533474.0,30.0,mobile,-12.0,On time
+589,566177,374741,connect,ended,-49.0,564143.0,690.0,connect,-122.0,On time
+590,566395,414230,mobile,ended,24.0,562156.0,0.0,mobile,249.0,Late
+591,566944,327575,mobile,ended,-174.0,553521.0,540.0,mobile,53.0,Late
+592,566973,349894,connect,ended,-592.0,563509.0,60.0,connect,-432.0,On time
+593,540121,401077,mobile,ended,-29.0,534332.0,30.0,mobile,44.0,Late
+594,540127,296967,connect,ended,7.0,519682.0,720.0,connect,-223.0,On time
+595,540239,409690,mobile,canceled,,539958.0,390.0,mobile,299.0,Late
+596,541897,321801,mobile,ended,3.0,539969.0,150.0,mobile,-37.0,On time
+597,543736,241021,connect,ended,-361.0,540311.0,30.0,connect,48.0,Late
+598,568143,300781,mobile,ended,126.0,563657.0,0.0,mobile,-492.0,On time
+599,568526,305307,mobile,ended,30.0,554547.0,120.0,mobile,70.0,Late
+600,571394,405433,mobile,ended,107.0,561213.0,300.0,mobile,124.0,Late
+601,571591,415629,mobile,ended,-5.0,565345.0,90.0,mobile,-54.0,On time
+602,573622,390479,mobile,ended,5.0,570957.0,120.0,mobile,7.0,Late
+603,535647,317572,connect,ended,-89.0,533793.0,0.0,connect,-17.0,On time
+604,535935,367535,mobile,ended,72.0,546067.0,270.0,mobile,33.0,Late
+605,537666,377509,mobile,ended,-65.0,538177.0,240.0,mobile,50.0,Late
+606,538178,392368,connect,ended,1064.0,557772.0,720.0,connect,-61.0,On time
+607,539758,397599,mobile,ended,138.0,540797.0,0.0,mobile,12.0,Late
+608,540562,230201,connect,ended,-594.0,539340.0,180.0,connect,-18.0,On time
+609,536203,409088,mobile,canceled,,541455.0,60.0,mobile,-172.0,On time
+610,537029,338584,connect,ended,-43.0,542364.0,0.0,connect,-38.0,On time
+611,538756,359641,mobile,ended,-73.0,534964.0,720.0,mobile,-3.0,On time
+612,541079,356106,connect,ended,-24.0,531984.0,120.0,connect,-605.0,On time
+613,542962,337219,connect,ended,18.0,537400.0,240.0,connect,1.0,Late
+614,543343,248300,connect,ended,140.0,564185.0,450.0,connect,13.0,Late
+615,559899,375621,connect,canceled,,558588.0,660.0,connect,41.0,Late
+616,560485,216576,connect,ended,-52.0,567020.0,0.0,connect,-470.0,On time
+617,562582,409345,mobile,ended,-31.0,563062.0,30.0,mobile,4.0,Late
+618,564075,401387,mobile,canceled,,552061.0,60.0,mobile,240.0,Late
+619,564869,365926,connect,ended,41.0,565321.0,180.0,connect,-30.0,On time
+620,565646,377127,mobile,ended,45.0,563229.0,240.0,mobile,-41.0,On time
+621,542207,368432,mobile,canceled,,556043.0,0.0,mobile,2.0,Late
+622,542224,327336,mobile,canceled,,538452.0,0.0,mobile,64.0,Late
+623,542891,325328,connect,ended,-163.0,549523.0,630.0,mobile,121.0,Late
+624,543125,316042,mobile,ended,3.0,542232.0,720.0,connect,-226.0,On time
+625,543525,386259,connect,ended,11.0,541605.0,0.0,connect,1.0,Late
+626,544201,301228,mobile,ended,-6.0,542164.0,540.0,mobile,-25.0,On time
+627,544327,317819,mobile,ended,22.0,523988.0,420.0,mobile,86.0,Late
+628,544402,366164,connect,ended,-18.0,554118.0,720.0,connect,113.0,Late
+629,544611,398802,mobile,ended,349.0,553900.0,690.0,mobile,8.0,Late
+630,544791,402562,connect,ended,85.0,554505.0,60.0,connect,-47.0,On time
+631,547640,392718,mobile,ended,,557889.0,720.0,mobile,-54.0,On time
+632,506546,351168,mobile,ended,,516147.0,480.0,mobile,,On time
+633,567623,391519,connect,ended,96.0,562244.0,720.0,connect,,On time
+634,567765,349655,mobile,ended,165.0,561557.0,0.0,mobile,4.0,Late
+635,568652,395204,connect,ended,142.0,563518.0,720.0,connect,-13.0,On time
+636,568822,386259,connect,ended,-42.0,567288.0,0.0,connect,-86.0,On time
+637,569319,415157,mobile,ended,-53.0,563557.0,30.0,mobile,3.0,Late
+638,570035,412698,mobile,ended,-67.0,557146.0,60.0,mobile,-8.0,On time
+639,571779,385073,mobile,ended,40.0,565610.0,690.0,mobile,-18.0,On time
+640,529571,388795,mobile,ended,-1707.0,546969.0,120.0,mobile,104.0,Late
+641,574019,374486,mobile,ended,42.0,565728.0,240.0,mobile,50.0,Late
+642,575497,356190,mobile,ended,702.0,574596.0,30.0,mobile,10.0,Late
+643,575539,294883,mobile,ended,85.0,572492.0,0.0,mobile,9.0,Late
+644,513740,338940,mobile,ended,83.0,565837.0,0.0,mobile,-61.0,On time
+645,517377,401740,mobile,ended,,528723.0,60.0,mobile,404.0,Late
+646,519027,298516,connect,ended,-39.0,549626.0,390.0,connect,115.0,Late
+647,534020,384040,connect,canceled,,550585.0,0.0,connect,42.0,Late
+648,527015,243721,mobile,canceled,,534917.0,120.0,mobile,131.0,Late
+649,528111,375944,connect,ended,-29.0,534342.0,300.0,connect,-71.0,On time
+650,534012,404774,mobile,ended,32.0,545232.0,300.0,mobile,63.0,Late
+651,537879,392683,connect,ended,-142.0,550313.0,0.0,connect,-26.0,On time
+652,538120,392368,connect,ended,-103.0,535637.0,120.0,connect,21.0,Late
+653,538359,343808,connect,ended,38.0,537176.0,60.0,connect,-50.0,On time
+654,539009,392327,mobile,ended,274.0,521664.0,600.0,mobile,-35.0,On time
+655,540003,409113,mobile,ended,7.0,540751.0,180.0,mobile,204.0,Late
+656,572285,241021,connect,ended,-101.0,571991.0,30.0,connect,-14.0,On time
+657,574537,369648,connect,ended,-389.0,571606.0,120.0,connect,-600.0,On time
+658,545757,388438,mobile,ended,-115.0,546278.0,0.0,mobile,-54.0,On time
+659,547006,296815,connect,ended,,545330.0,60.0,connect,-37.0,On time
+660,547748,367164,mobile,ended,-347.0,523230.0,600.0,mobile,83.0,Late
+661,544389,385629,connect,ended,23.0,517515.0,0.0,connect,33.0,Late
+662,541605,386259,connect,ended,1.0,535939.0,660.0,connect,-151.0,On time
+663,542163,338243,connect,ended,-18.0,534021.0,90.0,connect,-57.0,On time
+664,542649,248272,mobile,ended,1382.0,542179.0,90.0,mobile,-376.0,On time
+665,543224,298429,connect,canceled,,540453.0,690.0,connect,39.0,Late
+666,544126,402194,mobile,ended,-29.0,514673.0,570.0,mobile,-52.0,On time
+667,544994,333107,mobile,ended,45.0,540939.0,180.0,mobile,-17.0,On time
+668,545099,389599,mobile,ended,56.0,539042.0,0.0,mobile,1500.0,Late
+669,545590,334190,connect,canceled,,538875.0,120.0,connect,-875.0,On time
+670,528949,383144,connect,canceled,,540254.0,600.0,connect,75.0,Late
+671,529225,364411,mobile,ended,88.0,547571.0,180.0,mobile,155.0,Late
+672,533802,373893,connect,ended,-286.0,558560.0,0.0,connect,-775.0,On time
+673,538615,403884,mobile,ended,27.0,540902.0,0.0,mobile,-190.0,On time
+674,544271,335605,mobile,ended,40.0,534944.0,60.0,mobile,-2.0,On time
+675,544692,405622,mobile,ended,39.0,522854.0,120.0,mobile,58.0,Late
+676,544748,212965,connect,canceled,,545863.0,150.0,connect,-1095.0,On time
+677,545045,377312,mobile,ended,22.0,563963.0,630.0,mobile,84.0,Late
+678,546031,318867,mobile,ended,18.0,530797.0,270.0,mobile,28.0,Late
+679,548763,334924,mobile,ended,66.0,534311.0,180.0,mobile,320.0,Late
+680,548903,360981,mobile,ended,221.0,549631.0,30.0,mobile,-83.0,On time
+681,550033,285452,connect,ended,31.0,545931.0,0.0,connect,-71.0,On time
+682,551121,352393,connect,ended,39.0,548333.0,480.0,connect,,On time
+683,551337,314456,connect,ended,-37.0,556481.0,480.0,connect,,On time
+684,546727,401262,mobile,ended,39.0,544217.0,90.0,mobile,53.0,Late
+685,547095,339540,mobile,ended,119.0,535528.0,60.0,mobile,39.0,Late
+686,547493,346697,mobile,ended,78.0,557319.0,690.0,mobile,,On time
+687,549509,368432,mobile,canceled,,567818.0,630.0,mobile,-986.0,On time
+688,549796,371572,connect,ended,-96.0,543535.0,60.0,connect,-312.0,On time
+689,506452,393172,connect,ended,-93.0,555818.0,30.0,connect,17.0,Late
+690,514488,179304,mobile,ended,124.0,557954.0,0.0,mobile,25.0,Late
+691,528560,377119,connect,ended,-369.0,539582.0,120.0,connect,98.0,Late
+692,530110,216148,connect,ended,-211.0,541841.0,60.0,connect,40.0,Late
+693,549023,365926,connect,canceled,,550970.0,0.0,connect,596.0,Late
+694,550529,362531,connect,ended,-26.0,544688.0,660.0,connect,334.0,Late
+695,543210,402562,connect,ended,-107.0,538013.0,0.0,connect,-37.0,On time
+696,543792,274598,mobile,ended,-199.0,536619.0,120.0,mobile,6.0,Late
+697,544225,230201,connect,ended,-122.0,540562.0,30.0,connect,-594.0,On time
+698,544945,340442,mobile,ended,48.0,538975.0,120.0,mobile,-67.0,On time
+699,536387,310661,mobile,ended,5.0,539166.0,720.0,mobile,-184.0,On time
+700,536765,347781,mobile,ended,-26.0,536981.0,600.0,mobile,5.0,Late
+701,538116,289901,connect,ended,-92.0,532257.0,660.0,connect,-157.0,On time
+702,538721,288611,mobile,ended,17.0,534242.0,60.0,mobile,12.0,Late
+703,552211,384040,connect,ended,-358.0,539551.0,0.0,connect,-1.0,On time
+704,552741,407026,mobile,ended,,551060.0,630.0,mobile,,On time
+705,507521,321752,connect,ended,54.0,547204.0,420.0,connect,7.0,Late
+706,526426,370907,mobile,ended,42.0,547543.0,0.0,mobile,-16.0,On time
+707,535781,319373,connect,ended,-7.0,552184.0,90.0,connect,-7.0,On time
+708,516252,284459,connect,ended,-42.0,535364.0,510.0,connect,7.0,Late
+709,517818,377172,mobile,ended,-49.0,551053.0,30.0,mobile,19.0,Late
+710,518985,380833,mobile,ended,19.0,535338.0,240.0,mobile,-16.0,On time
+711,529942,385128,mobile,ended,0.0,520000.0,120.0,mobile,29.0,Late
+712,532779,349678,connect,ended,-80.0,538006.0,30.0,connect,4.0,Late
+713,539164,364464,connect,canceled,,537569.0,600.0,connect,,On time
+714,539186,402083,connect,ended,-4.0,532634.0,510.0,connect,-275.0,On time
+715,535239,164960,connect,ended,81.0,538412.0,360.0,connect,-17.0,On time
+716,537793,357875,mobile,ended,267.0,542111.0,0.0,mobile,-14.0,On time
+717,538248,224967,mobile,ended,54.0,529692.0,0.0,mobile,16.0,Late
+718,538941,385178,connect,ended,241.0,540804.0,120.0,connect,34.0,Late
+719,539018,347847,mobile,canceled,,542866.0,720.0,mobile,-152.0,On time
+720,548556,375553,mobile,ended,-216.0,561402.0,60.0,mobile,-8.0,On time
+721,548792,361564,mobile,ended,9.0,548637.0,60.0,mobile,-175.0,On time
+722,549613,311707,connect,ended,-33.0,543933.0,0.0,connect,-32.0,On time
+723,553518,317639,mobile,ended,-10.0,561611.0,120.0,mobile,39.0,Late
+724,553735,359049,connect,ended,33.0,550645.0,390.0,connect,249.0,Late
+725,549537,412219,mobile,ended,67.0,549114.0,540.0,mobile,-12.0,On time
+726,550036,396532,mobile,ended,2943.0,546881.0,0.0,mobile,12.0,Late
+727,551485,388895,mobile,ended,196.0,551404.0,120.0,mobile,48.0,Late
+728,551631,293523,mobile,ended,28.0,547485.0,0.0,mobile,18.0,Late
+729,553385,358772,connect,ended,-71.0,543328.0,120.0,connect,-9.0,On time
+730,553825,335276,connect,ended,-18.0,552800.0,150.0,connect,-74.0,On time
+731,554330,392882,mobile,ended,142.0,543626.0,570.0,mobile,-148.0,On time
+732,554470,392718,mobile,ended,-15.0,547640.0,60.0,mobile,,On time
+733,554673,383344,connect,ended,-9.0,553891.0,180.0,connect,-27.0,On time
+734,554926,412226,mobile,ended,-11.0,560213.0,420.0,mobile,,On time
+735,555280,357875,mobile,ended,1357.0,547287.0,360.0,mobile,-84.0,On time
+736,545797,371387,mobile,ended,1606.0,546641.0,60.0,mobile,-1005.0,On time
+737,546516,248889,connect,ended,-282.0,548781.0,0.0,connect,-118.0,On time
+738,548293,405481,mobile,ended,80.0,532574.0,240.0,mobile,-11.0,On time
+739,548465,369230,mobile,ended,-197.0,534486.0,690.0,mobile,-99.0,On time
+740,548906,312157,mobile,ended,-2.0,555893.0,690.0,mobile,-49.0,On time
+741,541602,383110,connect,ended,-36.0,539987.0,720.0,connect,76.0,Late
+742,541861,406413,mobile,ended,-46.0,540030.0,120.0,mobile,59.0,Late
+743,542701,409005,mobile,ended,-12.0,541529.0,60.0,mobile,17.0,Late
+744,543335,398876,mobile,ended,153.0,557295.0,540.0,mobile,29.0,Late
+745,544799,394928,connect,ended,-59.0,531562.0,210.0,connect,-129.0,On time
+746,544864,357860,connect,ended,-52.0,540016.0,450.0,connect,16.0,Late
+747,545132,379539,mobile,canceled,,527161.0,90.0,mobile,,On time
+748,545560,258737,mobile,ended,59.0,542993.0,0.0,mobile,39.0,Late
+749,545760,383804,connect,ended,-25.0,552820.0,180.0,connect,-4.0,On time
+750,545948,383344,connect,ended,83.0,519135.0,90.0,connect,69.0,Late
+751,551368,359045,connect,ended,31.0,551957.0,30.0,connect,3.0,Late
+752,551369,304392,connect,ended,-174.0,551492.0,630.0,connect,-17.0,On time
+753,551784,409345,mobile,ended,-17.0,557381.0,60.0,mobile,14.0,Late
+754,552111,313955,mobile,ended,-94.0,544602.0,300.0,mobile,42.0,Late
+755,552169,412539,mobile,ended,-262.0,551183.0,270.0,mobile,19.0,Late
+756,540408,373893,connect,ended,14.0,537659.0,450.0,connect,-4.0,On time
+757,540782,401387,mobile,ended,-60.0,521343.0,540.0,mobile,86.0,Late
+758,541816,347464,connect,ended,-55.0,509094.0,720.0,connect,-26.0,On time
+759,542034,280406,mobile,canceled,,540818.0,600.0,mobile,52.0,Late
+760,535910,330289,mobile,canceled,,535048.0,360.0,mobile,,On time
+761,535520,374169,connect,canceled,,564202.0,600.0,connect,,On time
+762,555973,399912,connect,ended,,553160.0,30.0,connect,-67.0,On time
+763,556619,214635,connect,ended,2.0,540747.0,240.0,connect,-972.0,On time
+764,556705,351660,connect,ended,69.0,558817.0,720.0,connect,-72.0,On time
+765,557536,407411,mobile,ended,8.0,555201.0,30.0,mobile,-26.0,On time
+766,557540,375047,connect,ended,-69.0,552358.0,630.0,connect,-7.0,On time
+767,557461,194343,connect,ended,-29.0,505628.0,90.0,connect,-60.0,On time
+768,551363,403265,mobile,ended,,549825.0,690.0,connect,-18.0,On time
+769,551617,349894,connect,ended,-29.0,549019.0,270.0,connect,32.0,Late
+770,536952,241021,connect,ended,-39.0,542244.0,720.0,connect,80.0,Late
+771,537578,280805,connect,canceled,,534344.0,720.0,connect,18.0,Late
+772,536587,404906,mobile,canceled,,539334.0,660.0,mobile,-55.0,On time
+773,536887,350149,mobile,ended,-47.0,542853.0,30.0,mobile,-78.0,On time
+774,537126,359049,connect,ended,-156.0,539408.0,720.0,connect,-6.0,On time
+775,539640,368432,mobile,ended,-12.0,535981.0,0.0,mobile,2.0,Late
+776,540078,351660,connect,ended,20.0,541498.0,240.0,connect,3.0,Late
+777,541514,383309,mobile,canceled,,546477.0,30.0,mobile,16.0,Late
+778,541565,228359,connect,ended,-10.0,535991.0,60.0,connect,-225.0,On time
+779,541898,358978,connect,ended,-45.0,542766.0,540.0,connect,-8.0,On time
+780,542274,368404,mobile,ended,16.0,523506.0,720.0,mobile,5.0,Late
+781,542826,290600,connect,ended,-14.0,542197.0,0.0,connect,-12.0,On time
+782,549176,390481,mobile,ended,10.0,537874.0,330.0,mobile,-31.0,On time
+783,549636,336426,mobile,ended,1645.0,549493.0,0.0,mobile,283.0,Late
+784,549845,224728,mobile,ended,28.0,551198.0,30.0,mobile,48.0,Late
+785,550306,353425,connect,ended,-58.0,555658.0,720.0,connect,-89.0,On time
+786,551255,383997,mobile,ended,34.0,525663.0,720.0,mobile,59.0,Late
+787,551933,391325,mobile,ended,-121.0,543706.0,60.0,mobile,,On time
+788,552649,384479,mobile,ended,47.0,546050.0,180.0,mobile,-778.0,On time
+789,553030,374626,mobile,ended,-82.0,548963.0,630.0,mobile,48.0,Late
+790,553531,376901,connect,ended,-74.0,565868.0,30.0,connect,-19.0,On time
+791,541634,214635,connect,canceled,,540747.0,420.0,connect,-972.0,On time
+792,543138,391379,connect,ended,318.0,538099.0,60.0,connect,65.0,Late
+793,551825,376901,mobile,ended,-31.0,543606.0,60.0,connect,18.0,Late
+794,551955,351168,mobile,ended,,538688.0,120.0,mobile,69.0,Late
+795,554279,301181,mobile,ended,572.0,553087.0,60.0,mobile,-87.0,On time
+796,554448,300505,connect,ended,38.0,555637.0,30.0,connect,-1.0,On time
+797,554534,407389,mobile,ended,42.0,553108.0,600.0,mobile,11.0,Late
+798,543560,394875,mobile,ended,2322.0,540428.0,0.0,mobile,6.0,Late
+799,543480,192575,connect,ended,120.0,532216.0,180.0,connect,1.0,Late
+800,552987,400689,mobile,ended,7.0,559416.0,0.0,mobile,7.0,Late
+801,553940,390068,connect,ended,-3.0,556203.0,180.0,mobile,169.0,Late
+802,554066,410571,mobile,ended,-320.0,548898.0,120.0,mobile,47.0,Late
+803,554078,382821,connect,ended,-15.0,552892.0,420.0,connect,-48.0,On time
+804,554897,412989,mobile,ended,,563395.0,240.0,mobile,,On time
+805,556882,380479,mobile,canceled,,558724.0,0.0,mobile,13.0,Late
+806,557062,374298,connect,ended,58.0,556079.0,240.0,connect,-1019.0,On time
+807,557956,296227,mobile,ended,220.0,553198.0,30.0,mobile,252.0,Late
+808,544607,402562,connect,ended,58.0,548088.0,0.0,connect,-111.0,On time
+809,544614,379889,mobile,ended,131.0,526468.0,150.0,mobile,-37.0,On time
+810,544946,393126,mobile,ended,584.0,540436.0,90.0,mobile,119.0,Late
+811,545012,200366,mobile,ended,228.0,534183.0,240.0,mobile,21.0,Late
+812,545483,406927,mobile,ended,4.0,538253.0,120.0,mobile,11.0,Late
+813,515799,392368,connect,ended,-151.0,538120.0,510.0,connect,-103.0,On time
+814,522771,358772,connect,ended,-43.0,557012.0,60.0,connect,-29.0,On time
+815,523194,216576,connect,ended,-163.0,548778.0,120.0,connect,-1.0,On time
+816,534119,392656,mobile,canceled,,554740.0,0.0,mobile,,On time
+817,535771,336754,mobile,ended,140.0,538215.0,0.0,mobile,-26.0,On time
+818,538722,176670,connect,ended,-121.0,538870.0,30.0,connect,-30.0,On time
+819,539109,313432,mobile,ended,58.0,532031.0,60.0,mobile,62.0,Late
+820,535887,351393,connect,ended,90.0,541454.0,720.0,connect,254.0,Late
+821,538748,243721,mobile,ended,11.0,534917.0,120.0,mobile,131.0,Late
+822,538773,241021,connect,ended,55.0,540159.0,0.0,connect,-204.0,On time
+823,539506,390656,connect,ended,11.0,513950.0,0.0,connect,-2.0,On time
+824,540132,397838,mobile,ended,-15.0,526192.0,720.0,mobile,10.0,Late
+825,540293,348462,mobile,ended,13.0,511557.0,360.0,mobile,-4.0,On time
+826,542067,406161,mobile,canceled,,556375.0,480.0,mobile,9.0,Late
+827,542755,334190,connect,ended,60.0,534169.0,0.0,connect,25.0,Late
+828,542977,364530,mobile,ended,-41.0,540811.0,0.0,mobile,-30.0,On time
+829,543054,388895,mobile,ended,137.0,545117.0,600.0,mobile,-118.0,On time
+830,559859,310049,mobile,ended,7.0,554407.0,120.0,mobile,76.0,Late
+831,560146,275364,connect,canceled,,553244.0,90.0,connect,-880.0,On time
+832,560686,370907,mobile,ended,,526426.0,600.0,mobile,42.0,Late
+833,561761,364907,connect,ended,-78.0,560285.0,720.0,connect,-169.0,On time
+834,559709,379889,mobile,ended,-2.0,554879.0,90.0,mobile,14.0,Late
+835,560278,362187,connect,ended,-151.0,559898.0,690.0,connect,-8.0,On time
+836,560319,390467,connect,ended,-61.0,554129.0,720.0,connect,1.0,Late
+837,560568,390702,connect,ended,-106.0,549612.0,720.0,connect,2.0,Late
+838,560606,402562,connect,ended,,544791.0,630.0,connect,85.0,Late
+839,560790,173061,connect,ended,,559663.0,90.0,connect,-21.0,On time
+840,555434,385378,mobile,ended,1634.0,553002.0,210.0,mobile,9.0,Late
+841,555762,181625,connect,ended,39.0,564963.0,540.0,connect,180.0,Late
+842,557838,383804,connect,ended,117.0,545760.0,60.0,connect,-25.0,On time
+843,558833,192643,mobile,ended,,558823.0,0.0,mobile,,On time
+844,559702,400709,mobile,ended,,557217.0,300.0,mobile,,On time
+845,559759,410052,mobile,ended,-56.0,556710.0,600.0,mobile,70.0,Late
+846,560031,297105,connect,ended,434.0,558934.0,720.0,connect,-102.0,On time
+847,560896,391379,connect,ended,-37.0,559579.0,150.0,connect,8.0,Late
+848,560926,383344,connect,canceled,,560740.0,450.0,connect,17.0,Late
+849,561664,403240,connect,ended,-232.0,561032.0,630.0,connect,-1.0,On time
+850,543807,340616,connect,canceled,,543796.0,510.0,connect,17.0,Late
+851,543910,314456,connect,ended,56.0,542971.0,0.0,connect,-26.0,On time
+852,550027,384983,mobile,ended,21.0,538603.0,420.0,mobile,169.0,Late
+853,550185,386259,connect,ended,15.0,547975.0,180.0,connect,27.0,Late
+854,550407,341861,connect,ended,-37.0,551209.0,120.0,connect,-15.0,On time
+855,550411,323762,mobile,ended,17.0,549767.0,600.0,mobile,-222.0,On time
+856,550833,409598,mobile,canceled,,548670.0,720.0,mobile,,On time
+857,551674,255757,connect,canceled,,542843.0,690.0,connect,-231.0,On time
+858,552189,321170,mobile,ended,12.0,537078.0,300.0,mobile,22.0,Late
+859,553402,386413,connect,ended,-37.0,551633.0,600.0,connect,58.0,Late
+860,553409,402654,mobile,ended,,549265.0,570.0,mobile,,On time
+861,544361,400171,mobile,ended,16.0,534370.0,0.0,mobile,-69.0,On time
+862,544753,380478,mobile,ended,810.0,526537.0,0.0,mobile,747.0,Late
+863,544923,380038,mobile,ended,28.0,536646.0,600.0,mobile,88.0,Late
+864,543713,355444,connect,ended,-36.0,541691.0,120.0,connect,5.0,Late
+865,543857,343003,mobile,ended,,563709.0,720.0,mobile,,On time
+866,544803,299063,connect,ended,-24.0,563652.0,30.0,connect,-22.0,On time
+867,545828,372027,mobile,ended,-60.0,540875.0,0.0,mobile,-12.0,On time
+868,545899,295349,mobile,ended,,541564.0,480.0,mobile,,On time
+869,558387,399575,connect,ended,81.0,552753.0,0.0,connect,-43.0,On time
+870,558504,195467,mobile,ended,,554248.0,450.0,mobile,,On time
+871,559282,314456,connect,ended,-106.0,566613.0,60.0,connect,10.0,Late
+872,559396,368604,connect,ended,-29.0,546242.0,90.0,connect,2.0,Late
+873,559476,404041,connect,ended,-71.0,546640.0,720.0,connect,-44.0,On time
+874,559800,362498,mobile,ended,75.0,551850.0,150.0,mobile,26.0,Late
+875,560169,367919,connect,ended,15.0,554745.0,0.0,connect,-32.0,On time
+876,540035,358772,connect,ended,51.0,537504.0,540.0,connect,-43.0,On time
+877,543665,397413,mobile,ended,7.0,541444.0,30.0,mobile,901.0,Late
+878,543931,190291,connect,ended,-173.0,535349.0,510.0,connect,-37.0,On time
+879,543965,192179,connect,canceled,,526733.0,120.0,connect,-94.0,On time
+880,544576,377119,connect,ended,-2.0,542935.0,360.0,connect,16.0,Late
+881,544972,407389,mobile,ended,41.0,529569.0,270.0,mobile,242.0,Late
+882,545005,362339,connect,ended,13.0,538954.0,570.0,connect,-914.0,On time
+883,545105,320780,mobile,ended,167.0,540181.0,690.0,mobile,28.0,Late
+884,545211,310661,mobile,ended,10.0,536387.0,450.0,mobile,5.0,Late
+885,545582,382060,mobile,ended,6606.0,544670.0,660.0,mobile,-27.0,On time
+886,546592,296967,connect,canceled,,545025.0,240.0,connect,415.0,Late
+887,537302,380813,mobile,ended,-34.0,543359.0,660.0,mobile,594.0,Late
+888,537401,408927,mobile,ended,4.0,546980.0,60.0,mobile,11.0,Late
+889,563312,347873,connect,ended,-44.0,555622.0,570.0,connect,-154.0,On time
+890,563644,192643,mobile,ended,,563362.0,180.0,mobile,,On time
+891,563830,361262,mobile,ended,-274.0,564208.0,270.0,mobile,90.0,Late
+892,564480,415326,mobile,ended,,562579.0,600.0,mobile,,On time
+893,565162,342699,connect,ended,52.0,564294.0,270.0,connect,,On time
+894,566054,390729,mobile,ended,17.0,556355.0,90.0,mobile,,On time
+895,566342,383443,connect,ended,-598.0,564616.0,480.0,connect,-113.0,On time
+896,566561,342699,connect,ended,-13.0,564845.0,0.0,connect,-61.0,On time
+897,566606,415533,mobile,ended,-1.0,566705.0,660.0,mobile,-17.0,On time
+898,562514,272430,connect,ended,-25.0,562848.0,0.0,connect,-63.0,On time
+899,562896,376677,connect,canceled,,563347.0,600.0,connect,-212.0,On time
+900,563251,383720,connect,ended,-33.0,554559.0,720.0,connect,19.0,Late
+901,563305,406554,connect,canceled,,561185.0,150.0,connect,-5.0,On time
+902,567472,223850,mobile,canceled,,561253.0,210.0,mobile,83.0,Late
+903,567702,330679,mobile,ended,,549583.0,0.0,mobile,39.0,Late
+904,568014,413333,mobile,ended,94.0,561744.0,720.0,mobile,-3.0,On time
+905,519066,331903,mobile,ended,51.0,509729.0,210.0,mobile,19.0,Late
+906,520498,195467,mobile,ended,-2676.0,543363.0,660.0,mobile,,On time
+907,545732,374684,mobile,ended,-226.0,542561.0,720.0,mobile,-1.0,On time
+908,546201,307439,mobile,ended,625.0,545098.0,720.0,mobile,-45.0,On time
+909,546870,377700,mobile,ended,36.0,552710.0,90.0,mobile,5.0,Late
+910,546958,405005,connect,canceled,,546959.0,570.0,connect,38.0,Late
+911,547783,194343,connect,ended,-61.0,545064.0,30.0,connect,74.0,Late
+912,547797,397838,mobile,ended,14.0,542249.0,90.0,mobile,-84.0,On time
+913,548232,349678,connect,ended,-100.0,547238.0,180.0,connect,-652.0,On time
+914,549714,346208,connect,ended,-126.0,553005.0,240.0,connect,-6.0,On time
+915,550616,368432,mobile,ended,-65.0,527378.0,0.0,mobile,0.0,On time
+916,551143,390467,connect,canceled,,548851.0,60.0,connect,-16.0,On time
+917,551327,376626,mobile,ended,-207.0,538892.0,660.0,mobile,19.0,Late
+918,551540,408910,mobile,ended,79.0,536101.0,720.0,mobile,-60.0,On time
+919,555451,390702,connect,ended,175.0,560568.0,120.0,connect,-106.0,On time
+920,555637,300505,connect,ended,-1.0,545888.0,60.0,connect,-137.0,On time
+921,549269,375307,mobile,ended,39.0,535903.0,720.0,mobile,67.0,Late
+922,549387,338940,mobile,ended,,548303.0,60.0,mobile,-101.0,On time
+923,550302,411454,mobile,ended,,546923.0,480.0,mobile,,On time
+924,550575,402078,mobile,ended,-139.0,543717.0,0.0,mobile,-7.0,On time
+925,551081,341630,mobile,ended,731.0,549811.0,690.0,mobile,114.0,Late
+926,560221,364652,connect,canceled,,551511.0,60.0,connect,-81.0,On time
+927,560431,284713,connect,ended,-45.0,567229.0,600.0,connect,-4.0,On time
+928,560640,410939,connect,canceled,,548152.0,60.0,connect,,On time
+929,560796,407419,connect,ended,26.0,545608.0,0.0,connect,-54.0,On time
+930,548172,361156,mobile,ended,-29.0,522848.0,300.0,mobile,-5.0,On time
+931,549107,350873,connect,ended,-4.0,547903.0,0.0,connect,-215.0,On time
+932,550534,226317,mobile,ended,,544324.0,0.0,mobile,,On time
+933,561749,304775,connect,canceled,,558858.0,510.0,connect,18.0,Late
+934,562317,345080,connect,ended,-9.0,563786.0,210.0,connect,-80.0,On time
+935,562760,348462,mobile,ended,,562721.0,0.0,mobile,11.0,Late
+936,559276,403270,mobile,ended,,559235.0,480.0,mobile,-635.0,On time
+937,560369,410939,connect,canceled,,548152.0,0.0,connect,,On time
+938,560466,404731,mobile,ended,1250.0,556577.0,0.0,mobile,287.0,Late
+939,560754,412378,mobile,ended,146.0,560199.0,240.0,mobile,108.0,Late
+940,561590,270867,connect,ended,22.0,554496.0,510.0,connect,89.0,Late
+941,562498,351258,mobile,ended,-20.0,544878.0,630.0,mobile,29.0,Late
+942,562833,360551,connect,ended,-10.0,560777.0,330.0,connect,-25.0,On time
+943,552224,393799,mobile,ended,290.0,531793.0,120.0,mobile,39.0,Late
+944,553066,300505,connect,ended,77.0,552707.0,90.0,connect,-92.0,On time
+945,553100,412093,mobile,ended,67.0,557175.0,120.0,mobile,74.0,Late
+946,553407,407389,mobile,ended,341.0,549457.0,660.0,mobile,-588.0,On time
+947,554605,265239,connect,ended,-431.0,551587.0,90.0,connect,12.0,Late
+948,540063,408117,mobile,ended,9787.0,540574.0,90.0,mobile,0.0,On time
+949,540124,380859,mobile,ended,26.0,539717.0,150.0,mobile,164.0,Late
+950,540312,223640,mobile,ended,,541480.0,60.0,mobile,,On time
+951,541160,380833,mobile,ended,-22.0,556918.0,60.0,mobile,35.0,Late
+952,553964,381012,mobile,ended,-707.0,547734.0,720.0,mobile,83.0,Late
+953,554608,305525,connect,ended,-13.0,552965.0,270.0,connect,-6.0,On time
+954,555646,407465,connect,ended,-6.0,553623.0,30.0,connect,-59.0,On time
+955,556448,285452,connect,ended,14.0,556131.0,30.0,connect,-74.0,On time
+956,568111,205041,mobile,canceled,,564302.0,390.0,mobile,41.0,Late
+957,568133,224728,mobile,canceled,,567789.0,30.0,mobile,-130.0,On time
+958,568627,405142,connect,ended,-45.0,560761.0,660.0,connect,-67.0,On time
+959,569087,193097,connect,canceled,,566731.0,0.0,connect,252.0,Late
+960,569260,371572,connect,canceled,,554835.0,0.0,connect,-11.0,On time
+961,569383,407636,connect,ended,55.0,560335.0,60.0,connect,-159.0,On time
+962,569932,321322,mobile,ended,64.0,570206.0,0.0,mobile,13.0,Late
+963,572423,225617,mobile,ended,,570969.0,660.0,mobile,,On time
+964,523462,186958,mobile,ended,-61.0,554177.0,690.0,mobile,-40.0,On time
+965,567038,407465,connect,ended,-3.0,566140.0,180.0,connect,41.0,Late
+966,567347,328263,mobile,ended,-59.0,565243.0,150.0,mobile,10.0,Late
+967,567859,310918,connect,ended,-14.0,562013.0,600.0,connect,15.0,Late
+968,568031,394043,mobile,ended,665.0,565470.0,120.0,mobile,15.0,Late
+969,568084,214635,connect,ended,-22.0,549978.0,540.0,connect,-32.0,On time
+970,568317,314220,mobile,ended,-106.0,561970.0,720.0,mobile,-8.0,On time
+971,569062,364882,connect,ended,42.0,566930.0,0.0,connect,-106.0,On time
+972,569501,295830,connect,ended,-9.0,557587.0,120.0,connect,-404.0,On time
+973,571752,402235,mobile,ended,34.0,557648.0,0.0,mobile,91.0,Late
+974,575013,293910,mobile,ended,-15.0,563147.0,630.0,mobile,12.0,Late
+975,568757,379316,mobile,ended,-5.0,567008.0,480.0,mobile,6.0,Late
+976,569032,360474,connect,canceled,,565633.0,0.0,connect,,On time
+977,570357,336886,mobile,canceled,,567161.0,690.0,mobile,-29.0,On time
+978,571135,403962,connect,ended,56.0,563253.0,480.0,connect,-139.0,On time
+979,555952,363386,mobile,ended,-8.0,555902.0,300.0,mobile,131.0,Late
+980,556238,399603,mobile,ended,-29.0,560315.0,300.0,mobile,-334.0,On time
+981,556334,350149,mobile,ended,228.0,545622.0,330.0,mobile,105.0,Late
+982,557592,398586,connect,canceled,,557631.0,240.0,connect,-38.0,On time
+983,558052,400078,mobile,ended,,561330.0,60.0,mobile,,On time
+984,558627,305525,connect,ended,8.0,559997.0,0.0,connect,6.0,Late
+985,559139,383110,connect,ended,219.0,558448.0,570.0,connect,64.0,Late
+986,559798,376840,connect,ended,-48.0,558702.0,60.0,connect,-164.0,On time
+987,560901,256882,mobile,ended,4.0,560362.0,480.0,mobile,14.0,Late
+988,562874,349171,connect,ended,13.0,561815.0,600.0,connect,-493.0,On time
+989,541776,264348,mobile,ended,37.0,539983.0,630.0,mobile,-11.0,On time
+990,542651,336314,mobile,ended,78.0,535888.0,60.0,mobile,7.0,Late
+991,543005,396483,connect,ended,-152.0,542616.0,0.0,connect,4.0,Late
+992,543281,363387,mobile,ended,-86.0,540115.0,0.0,mobile,-38.0,On time
+993,543497,341119,connect,ended,2.0,543297.0,30.0,connect,66.0,Late
+994,543911,349678,connect,ended,132.0,532779.0,0.0,connect,-80.0,On time
+995,543920,403265,mobile,ended,-108.0,534967.0,60.0,mobile,-11.0,On time
+996,544075,353270,mobile,ended,-2.0,533945.0,150.0,mobile,130.0,Late
+997,544080,289901,connect,ended,-170.0,548270.0,600.0,connect,-473.0,On time
+998,544346,377509,mobile,ended,3.0,544659.0,0.0,mobile,-112.0,On time
+999,544367,381684,mobile,ended,41.0,543618.0,210.0,mobile,10.0,Late
+1000,544603,401871,connect,ended,246.0,558206.0,0.0,connect,-77.0,On time
+1001,548079,364890,mobile,canceled,,547164.0,450.0,mobile,597.0,Late
+1002,549738,337582,mobile,ended,6.0,521066.0,720.0,mobile,,On time
+1003,549935,408639,mobile,ended,42.0,545149.0,240.0,mobile,37.0,Late
+1004,550172,399973,mobile,ended,30.0,545415.0,60.0,mobile,-69.0,On time
+1005,528135,363936,mobile,ended,-71.0,524255.0,240.0,mobile,53.0,Late
+1006,534419,362595,mobile,ended,28.0,538769.0,120.0,mobile,6.0,Late
+1007,534678,383344,connect,ended,164.0,563620.0,240.0,connect,74.0,Late
+1008,510250,317024,connect,ended,-98.0,555935.0,270.0,mobile,50.0,Late
+1009,519298,352528,connect,ended,295.0,540649.0,480.0,connect,90.0,Late
+1010,520824,396532,mobile,ended,-365.0,536007.0,90.0,mobile,46.0,Late
+1011,526953,340333,connect,ended,-111.0,537953.0,300.0,connect,-13.0,On time
+1012,532405,380833,mobile,ended,-5.0,538592.0,30.0,mobile,-544.0,On time
+1013,563330,414410,mobile,canceled,,563358.0,60.0,mobile,15.0,Late
+1014,563460,410218,mobile,ended,-30.0,562205.0,300.0,mobile,-124.0,On time
+1015,563901,376491,connect,ended,-170.0,559165.0,240.0,connect,90.0,Late
+1016,553900,398802,mobile,ended,8.0,540217.0,0.0,mobile,-988.0,On time
+1017,554042,260745,mobile,ended,72.0,563190.0,30.0,mobile,262.0,Late
+1018,554396,402078,mobile,ended,388.0,547517.0,630.0,mobile,67.0,Late
+1019,555810,303930,mobile,ended,61.0,549332.0,630.0,mobile,53.0,Late
+1020,555861,361518,mobile,ended,-100.0,563287.0,30.0,mobile,22.0,Late
+1021,516589,362187,connect,ended,74.0,564118.0,210.0,connect,-8.0,On time
+1022,526733,192179,connect,ended,-94.0,541656.0,720.0,connect,-58.0,On time
+1023,564685,283930,mobile,ended,33.0,563173.0,270.0,mobile,264.0,Late
+1024,565100,374741,connect,ended,-71.0,566177.0,0.0,connect,-49.0,On time
+1025,565445,353138,mobile,ended,71.0,563150.0,120.0,mobile,60.0,Late
+1026,565569,310444,connect,ended,-110.0,561408.0,570.0,connect,-54.0,On time
+1027,535011,369881,connect,ended,5.0,506161.0,120.0,connect,6.0,Late
+1028,536702,409088,mobile,ended,38.0,541455.0,60.0,mobile,-172.0,On time
+1029,536816,360902,mobile,ended,-12.0,535641.0,450.0,mobile,,On time
+1030,537439,305525,connect,ended,-181.0,531276.0,660.0,connect,-145.0,On time
+1031,538939,222934,mobile,ended,9.0,543854.0,60.0,mobile,-17.0,On time
+1032,539530,279800,mobile,canceled,,540451.0,0.0,mobile,-19.0,On time
+1033,539588,392368,connect,ended,-226.0,544319.0,60.0,connect,-484.0,On time
+1034,540523,342699,connect,ended,42.0,537316.0,120.0,connect,66.0,Late
+1035,541437,314456,connect,canceled,,546501.0,0.0,connect,-210.0,On time
+1036,542810,390729,mobile,ended,-121.0,540933.0,0.0,mobile,-14.0,On time
+1037,543524,195986,mobile,ended,26.0,539274.0,0.0,mobile,15.0,Late
+1038,543533,356106,connect,canceled,,541079.0,60.0,connect,-24.0,On time
+1039,550857,405420,mobile,ended,112.0,553313.0,360.0,mobile,260.0,Late
+1040,550907,334190,connect,canceled,,549759.0,0.0,connect,142.0,Late
+1041,559492,339475,mobile,ended,-3.0,555193.0,270.0,mobile,16.0,Late
+1042,560076,352528,connect,ended,-102.0,561362.0,30.0,connect,-21.0,On time
+1043,545169,352650,connect,ended,49.0,540370.0,120.0,connect,-322.0,On time
+1044,545586,384396,connect,canceled,,553994.0,60.0,connect,120.0,Late
+1045,562971,396777,mobile,ended,7.0,558913.0,420.0,mobile,19.0,Late
+1046,563634,360418,mobile,ended,11.0,544591.0,480.0,mobile,-22.0,On time
+1047,564845,342699,connect,ended,-61.0,565162.0,510.0,connect,52.0,Late
+1048,564913,407315,mobile,ended,-172.0,565399.0,0.0,mobile,70.0,Late
+1049,566664,408140,mobile,ended,-115.0,549726.0,660.0,mobile,72.0,Late
+1050,566710,373893,connect,ended,122.0,561416.0,420.0,connect,-194.0,On time
+1051,567126,396435,connect,ended,-1.0,535053.0,420.0,connect,-81.0,On time
+1052,540134,314456,connect,ended,62.0,543910.0,60.0,connect,56.0,Late
+1053,566043,309070,connect,ended,2.0,560738.0,300.0,connect,-37.0,On time
+1054,566181,366164,connect,ended,-24.0,570155.0,30.0,connect,-130.0,On time
+1055,567979,347873,connect,canceled,,543790.0,30.0,connect,-200.0,On time
+1056,569130,380813,mobile,ended,-10.0,551354.0,390.0,mobile,14.0,Late
+1057,571119,355444,connect,ended,-555.0,570983.0,150.0,connect,-61.0,On time
+1058,533898,301301,connect,canceled,,557078.0,360.0,connect,104.0,Late
+1059,537967,335276,connect,ended,46.0,540855.0,0.0,connect,29.0,Late
+1060,542601,282208,mobile,ended,184.0,521526.0,240.0,mobile,-53.0,On time
+1061,567818,368432,mobile,ended,-986.0,568439.0,630.0,mobile,-25.0,On time
+1062,568211,409197,mobile,ended,-27.0,563484.0,660.0,mobile,-76.0,On time
+1063,569153,407636,connect,canceled,,560335.0,0.0,connect,-159.0,On time
+1064,569583,332998,mobile,ended,-125.0,566841.0,570.0,mobile,13.0,Late
+1065,571816,314220,mobile,ended,60.0,574276.0,120.0,mobile,43.0,Late
+1066,574188,358978,connect,ended,-30.0,573147.0,570.0,connect,6.0,Late
+1067,575912,405611,connect,ended,-58.0,574676.0,90.0,connect,35.0,Late
+1068,556652,394272,mobile,ended,1800.0,545556.0,720.0,mobile,-8.0,On time
+1069,556670,374057,mobile,ended,-14.0,553772.0,120.0,mobile,4.0,Late
+1070,556836,270935,mobile,ended,-171.0,546478.0,300.0,mobile,8.0,Late
+1071,557220,337311,mobile,ended,17.0,536108.0,0.0,mobile,-843.0,On time
+1072,557430,376311,connect,canceled,,549853.0,240.0,connect,-162.0,On time
+1073,566822,412917,mobile,ended,58.0,554385.0,660.0,mobile,0.0,On time
+1074,567091,402989,connect,ended,-397.0,557053.0,60.0,connect,-95.0,On time
+1075,567286,295619,mobile,ended,7.0,567805.0,150.0,mobile,52.0,Late
+1076,567764,414230,mobile,ended,-33.0,566395.0,120.0,mobile,24.0,Late
+1077,567782,409499,mobile,ended,21.0,568160.0,690.0,mobile,48.0,Late
+1078,530845,373889,mobile,canceled,,536992.0,0.0,mobile,1.0,Late
+1079,531468,397636,mobile,canceled,,538819.0,90.0,mobile,30.0,Late
+1080,535461,386259,connect,ended,-33.0,543525.0,30.0,connect,11.0,Late
+1081,536440,392633,mobile,canceled,,553304.0,600.0,mobile,49.0,Late
+1082,551941,385378,mobile,ended,40.0,528845.0,60.0,mobile,-4624.0,On time
+1083,552138,385523,connect,ended,22.0,537139.0,30.0,connect,-52.0,On time
+1084,552310,385625,connect,ended,-64.0,552425.0,300.0,connect,-102.0,On time
+1085,547628,324940,mobile,canceled,,552763.0,120.0,mobile,-5.0,On time
+1086,547668,369881,connect,ended,13.0,535011.0,0.0,connect,5.0,Late
+1087,548899,361991,mobile,ended,46.0,547573.0,480.0,mobile,17.0,Late
+1088,549066,409663,mobile,canceled,,544279.0,600.0,mobile,,On time
+1089,561623,386880,mobile,ended,-102.0,553117.0,630.0,mobile,65.0,Late
+1090,561637,404433,mobile,ended,-46.0,565733.0,480.0,mobile,-1020.0,On time
+1091,561678,316678,connect,ended,-760.0,560439.0,180.0,connect,-8.0,On time
+1092,562032,289383,mobile,ended,45.0,560727.0,30.0,mobile,20.0,Late
+1093,562464,281955,mobile,ended,,565027.0,720.0,mobile,-55.0,On time
+1094,563487,338969,connect,ended,-60.0,564381.0,600.0,connect,-53.0,On time
+1095,564190,377781,mobile,ended,218.0,560500.0,180.0,mobile,-259.0,On time
+1096,564384,398152,connect,ended,-2.0,562529.0,720.0,connect,40.0,Late
+1097,565397,389565,connect,ended,-1.0,563832.0,660.0,connect,-5.0,On time
+1098,551708,391325,mobile,canceled,,543706.0,390.0,mobile,,On time
+1099,551709,268787,mobile,ended,74.0,551518.0,0.0,mobile,-13.0,On time
+1100,552019,392683,connect,canceled,,553157.0,240.0,connect,-18.0,On time
+1101,552106,389836,mobile,canceled,,538942.0,330.0,mobile,142.0,Late
+1102,553500,383497,mobile,ended,24.0,519122.0,120.0,mobile,163.0,Late
+1103,554515,276924,mobile,ended,-64.0,553153.0,120.0,mobile,5.0,Late
+1104,554901,251447,connect,ended,-41.0,552582.0,210.0,connect,-60.0,On time
+1105,556467,369938,connect,ended,-105.0,547952.0,240.0,connect,144.0,Late
+1106,557773,402858,mobile,ended,-68.0,511719.0,0.0,mobile,71.0,Late
+1107,557990,312572,mobile,ended,-89.0,558495.0,0.0,mobile,73.0,Late
+1108,558327,383443,connect,ended,78.0,566342.0,60.0,connect,-598.0,On time
+1109,558692,338969,connect,ended,,552161.0,660.0,connect,-3.0,On time
+1110,559724,383462,connect,ended,-39.0,556319.0,660.0,connect,55.0,Late
+1111,543577,356106,connect,ended,-13.0,541079.0,120.0,connect,-24.0,On time
+1112,543854,222934,mobile,ended,-17.0,507859.0,0.0,mobile,16.0,Late
+1113,543940,348526,connect,canceled,,512216.0,60.0,connect,-39.0,On time
+1114,543975,406551,mobile,ended,58.0,537735.0,150.0,mobile,13.0,Late
+1115,536315,369230,mobile,ended,-191.0,536343.0,720.0,mobile,780.0,Late
+1116,537183,406984,mobile,canceled,,538569.0,60.0,mobile,-15.0,On time
+1117,537683,391618,connect,ended,54.0,549289.0,60.0,connect,-814.0,On time
+1118,537737,382968,mobile,ended,51.0,538666.0,150.0,mobile,34.0,Late
+1119,538875,334190,connect,ended,-875.0,543805.0,0.0,connect,-130.0,On time
+1120,545551,388466,mobile,ended,-120.0,556990.0,180.0,mobile,201.0,Late
+1121,556573,300505,connect,ended,-45.0,552826.0,630.0,connect,13.0,Late
+1122,539083,204293,mobile,canceled,,540497.0,420.0,mobile,-4.0,On time
+1123,539837,325139,mobile,ended,62.0,536246.0,510.0,mobile,-86.0,On time
+1124,540547,385008,connect,ended,48.0,536772.0,120.0,connect,-13.0,On time
+1125,540243,352921,connect,ended,6.0,537768.0,0.0,connect,-3.0,On time
+1126,540416,368724,mobile,canceled,,538062.0,270.0,mobile,72.0,Late
+1127,541760,367632,connect,ended,-29.0,527974.0,270.0,connect,8.0,Late
+1128,541863,358982,connect,ended,-159.0,540103.0,720.0,connect,-2.0,On time
+1129,542028,317298,connect,ended,-225.0,538558.0,30.0,connect,-9.0,On time
+1130,573809,167490,mobile,ended,0.0,569307.0,660.0,mobile,-22.0,On time
+1131,573931,300377,mobile,ended,-8.0,568712.0,120.0,mobile,1760.0,Late
+1132,557935,338969,connect,canceled,,552161.0,360.0,connect,-3.0,On time
+1133,547919,183514,mobile,ended,-121.0,547720.0,60.0,mobile,-5.0,On time
+1134,548088,402562,connect,ended,-111.0,546511.0,120.0,connect,14.0,Late
+1135,549442,408506,mobile,ended,-150.0,548118.0,120.0,mobile,9.0,Late
+1136,549512,251447,connect,ended,-165.0,548048.0,0.0,connect,-27.0,On time
+1137,549521,387976,mobile,ended,17.0,543979.0,0.0,mobile,7.0,Late
+1138,535880,377004,mobile,ended,-853.0,549968.0,30.0,mobile,52.0,Late
+1139,536046,406075,mobile,ended,-158.0,538415.0,420.0,mobile,29.0,Late
+1140,536763,363431,mobile,canceled,,523920.0,690.0,mobile,-25.0,On time
+1141,537148,407334,mobile,ended,37.0,537350.0,720.0,mobile,-197.0,On time
+1142,537570,299059,mobile,ended,-11.0,534705.0,60.0,mobile,74.0,Late
+1143,560412,336349,connect,canceled,,568759.0,630.0,connect,1466.0,Late
+1144,550072,412028,mobile,ended,172.0,549606.0,570.0,mobile,567.0,Late
+1145,551063,365796,mobile,canceled,,547713.0,120.0,mobile,,On time
+1146,551531,382633,mobile,ended,,544304.0,540.0,mobile,,On time
+1147,552207,360551,connect,ended,68.0,550621.0,30.0,connect,108.0,Late
+1148,552208,376311,connect,ended,33.0,549389.0,90.0,connect,64.0,Late
+1149,552380,412021,mobile,canceled,,549184.0,150.0,mobile,7.0,Late
+1150,566328,385008,connect,ended,23.0,565761.0,690.0,connect,1.0,Late
+1151,567257,370416,connect,ended,,563114.0,0.0,connect,0.0,On time
+1152,568524,314456,connect,ended,-10.0,559282.0,60.0,connect,-106.0,On time
+1153,568826,279966,mobile,ended,-35.0,566857.0,90.0,mobile,51.0,Late
+1154,569645,396034,connect,ended,-25.0,551522.0,330.0,connect,0.0,On time
+1155,570777,368604,connect,ended,-12.0,527387.0,660.0,connect,-68.0,On time
+1156,570917,411523,mobile,canceled,,568349.0,600.0,mobile,-4.0,On time
+1157,571324,366164,connect,ended,-294.0,566181.0,450.0,connect,-24.0,On time
+1158,571713,311923,connect,ended,-123.0,544337.0,600.0,connect,21.0,Late
+1159,572052,402392,mobile,ended,,563280.0,60.0,mobile,,On time
+1160,561213,405433,mobile,ended,124.0,564813.0,120.0,mobile,147.0,Late
+1161,561599,275810,mobile,ended,11.0,554462.0,600.0,mobile,535.0,Late
+1162,562325,347042,connect,ended,-73.0,564123.0,600.0,connect,78.0,Late
+1163,563213,263232,mobile,ended,-71.0,565495.0,240.0,mobile,6.0,Late
+1164,565109,312603,connect,ended,-956.0,566489.0,0.0,connect,31.0,Late
+1165,542854,317024,connect,ended,116.0,542633.0,570.0,mobile,-27.0,On time
+1166,542878,335276,connect,ended,79.0,553825.0,0.0,connect,-18.0,On time
+1167,559197,400591,mobile,ended,6.0,553823.0,0.0,mobile,6.0,Late
+1168,559663,173061,connect,ended,-21.0,552524.0,720.0,connect,-22.0,On time
+1169,560213,412226,mobile,ended,,558523.0,480.0,mobile,,On time
+1170,560214,362339,connect,canceled,,557201.0,30.0,connect,-390.0,On time
+1171,560949,310636,connect,ended,26.0,564126.0,60.0,connect,-77.0,On time
+1172,568943,337311,mobile,ended,70.0,554123.0,90.0,mobile,14.0,Late
+1173,568987,391370,connect,ended,42.0,562708.0,0.0,connect,41.0,Late
+1174,569303,272430,connect,ended,-44.0,562514.0,360.0,connect,-25.0,On time
+1175,570337,365926,connect,ended,-37.0,543942.0,570.0,connect,37.0,Late
+1176,570429,328506,mobile,ended,125.0,566331.0,480.0,mobile,-97.0,On time
+1177,570491,338969,connect,canceled,,569446.0,60.0,connect,-143.0,On time
+1178,570900,385523,connect,canceled,,565984.0,690.0,connect,124.0,Late
+1179,572088,338940,mobile,ended,1003.0,571451.0,150.0,mobile,,On time
+1180,572472,371625,mobile,ended,28.0,571018.0,180.0,mobile,25.0,Late
+1181,554588,343339,mobile,ended,426.0,552212.0,420.0,mobile,14.0,Late
+1182,555137,404130,connect,ended,26.0,552365.0,60.0,connect,12.0,Late
+1183,555716,412909,mobile,ended,-102.0,562141.0,540.0,mobile,68.0,Late
+1184,555942,250644,mobile,ended,9.0,554060.0,300.0,mobile,36.0,Late
+1185,556975,320481,mobile,ended,17.0,559071.0,150.0,mobile,-61.0,On time
+1186,556983,338969,connect,canceled,,552161.0,600.0,connect,-3.0,On time
+1187,558830,353425,connect,canceled,,557068.0,0.0,connect,30.0,Late
+1188,559072,383485,mobile,ended,-56.0,558533.0,720.0,mobile,64.0,Late
+1189,559429,390318,mobile,ended,203.0,556092.0,690.0,mobile,122.0,Late
+1190,560265,174243,mobile,ended,116.0,544959.0,60.0,mobile,-305.0,On time
+1191,560564,409718,mobile,ended,-121.0,557338.0,570.0,mobile,2.0,Late
+1192,560571,398152,connect,ended,-113.0,552192.0,690.0,connect,153.0,Late
+1193,562379,337768,mobile,ended,,563752.0,690.0,mobile,,On time
+1194,562555,380662,mobile,canceled,,567954.0,30.0,mobile,77.0,Late
+1195,565959,324889,mobile,ended,-94.0,562206.0,720.0,mobile,-90.0,On time
+1196,565968,338243,connect,ended,37.0,560465.0,720.0,connect,-50.0,On time
+1197,568399,241021,connect,ended,-57.0,563552.0,60.0,connect,25.0,Late
+1198,569173,274949,mobile,ended,-286.0,565577.0,0.0,mobile,-259.0,On time
+1199,572870,349618,mobile,ended,-178.0,567694.0,210.0,mobile,-17.0,On time
+1200,563348,225486,connect,ended,97.0,563757.0,0.0,connect,7.0,Late
+1201,564441,310901,mobile,ended,50.0,561518.0,180.0,mobile,,On time
+1202,524703,352436,mobile,ended,7.0,538643.0,60.0,mobile,13.0,Late
+1203,526518,332564,mobile,ended,-4.0,534198.0,90.0,mobile,-67.0,On time
+1204,527387,368604,connect,ended,-68.0,559396.0,690.0,connect,-29.0,On time
+1205,536171,392368,connect,canceled,,515799.0,600.0,connect,-151.0,On time
+1206,537064,401649,connect,ended,84.0,562864.0,0.0,connect,-147.0,On time
+1207,537575,409296,mobile,ended,-156.0,543251.0,0.0,mobile,-18.0,On time
+1208,543571,373893,connect,ended,-4.0,534820.0,150.0,connect,-576.0,On time
+1209,544588,377591,connect,ended,50.0,562313.0,60.0,connect,-362.0,On time
+1210,545963,305525,connect,ended,-33.0,549063.0,150.0,connect,-35.0,On time
+1211,546064,314220,mobile,ended,-218.0,550400.0,150.0,mobile,10.0,Late
+1212,564260,245154,connect,canceled,,561694.0,420.0,connect,-47.0,On time
+1213,564479,359485,connect,ended,121.0,561602.0,210.0,connect,8.0,Late
+1214,565170,318371,mobile,ended,-150.0,560843.0,0.0,mobile,44.0,Late
+1215,558129,344254,connect,ended,-185.0,558115.0,690.0,connect,6.0,Late
+1216,558313,285452,connect,ended,-21.0,556448.0,720.0,connect,14.0,Late
+1217,558546,396712,mobile,ended,2733.0,554234.0,420.0,mobile,26.0,Late
+1218,559335,391125,mobile,ended,7.0,559214.0,120.0,mobile,79.0,Late
+1219,559521,411754,connect,ended,81.0,556456.0,660.0,connect,97.0,Late
+1220,561339,366872,connect,ended,-146.0,566968.0,690.0,connect,-31.0,On time
+1221,561698,312078,connect,ended,45.0,564914.0,0.0,connect,-542.0,On time
+1222,562202,216576,connect,ended,31.0,559387.0,240.0,connect,-4.0,On time
+1223,562290,349171,connect,ended,-839.0,562874.0,420.0,connect,13.0,Late
+1224,563001,272724,mobile,ended,263.0,561423.0,240.0,mobile,,On time
+1225,563092,410214,mobile,ended,-38.0,563145.0,180.0,mobile,28.0,Late
+1226,563454,409274,mobile,ended,76.0,563821.0,30.0,mobile,-8.0,On time
+1227,563808,412210,mobile,ended,98.0,561890.0,240.0,mobile,249.0,Late
+1228,563832,389565,connect,ended,-5.0,564385.0,60.0,connect,22.0,Late
+1229,564522,333753,mobile,ended,95.0,564604.0,660.0,mobile,97.0,Late
+1230,564890,396266,mobile,ended,-165.0,562788.0,510.0,mobile,121.0,Late
+1231,558480,381787,connect,ended,-15.0,548193.0,210.0,connect,158.0,Late
+1232,558742,192603,mobile,ended,3.0,562673.0,420.0,mobile,415.0,Late
+1233,558905,392683,connect,ended,55.0,553157.0,0.0,connect,-18.0,On time
+1234,561645,383625,connect,ended,-138.0,567392.0,0.0,connect,15.0,Late
+1235,565470,394043,mobile,ended,15.0,562479.0,180.0,mobile,127.0,Late
+1236,565814,389565,connect,ended,48.0,565397.0,0.0,connect,-1.0,On time
+1237,565979,371159,connect,ended,48.0,563458.0,60.0,connect,-24.0,On time
+1238,566956,403558,mobile,ended,,563099.0,120.0,mobile,,On time
+1239,568286,359641,mobile,ended,-28.0,560844.0,240.0,mobile,72.0,Late
+1240,568405,353274,mobile,ended,15.0,554676.0,0.0,mobile,-8.0,On time
+1241,569301,195977,connect,ended,62.0,561125.0,660.0,connect,-110.0,On time
+1242,569376,330318,mobile,ended,-19.0,566099.0,120.0,mobile,123.0,Late
+1243,573387,412916,mobile,ended,74.0,565754.0,60.0,mobile,-22.0,On time
+1244,575031,319886,connect,ended,92.0,571453.0,660.0,connect,-14.0,On time
+1245,538300,365926,connect,canceled,,537243.0,270.0,connect,242.0,Late
+1246,539038,378072,connect,ended,-17.0,529169.0,720.0,connect,1.0,Late
+1247,565937,290600,connect,ended,-9.0,567467.0,0.0,connect,6.0,Late
+1248,568112,395228,mobile,ended,145.0,563130.0,0.0,mobile,-19.0,On time
+1249,570098,410702,mobile,canceled,,562806.0,150.0,mobile,16.0,Late
+1250,570764,230675,mobile,ended,211.0,564217.0,690.0,mobile,44.0,Late
+1251,572707,241021,connect,canceled,,574151.0,0.0,connect,3.0,Late
+1252,573350,301068,mobile,ended,1.0,530691.0,0.0,mobile,8.0,Late
+1253,574755,373802,mobile,ended,-16.0,571574.0,30.0,mobile,-44.0,On time
+1254,540202,408267,mobile,ended,-115.0,537171.0,30.0,mobile,17.0,Late
+1255,564485,290726,connect,ended,-42.0,554952.0,480.0,connect,-65.0,On time
+1256,568007,414878,mobile,ended,123.0,566039.0,300.0,mobile,8.0,Late
+1257,568444,353425,connect,ended,-27.0,557068.0,90.0,connect,30.0,Late
+1258,568500,312603,connect,ended,0.0,565109.0,60.0,connect,-956.0,On time
+1259,570888,265239,connect,ended,-21.0,551401.0,270.0,connect,-2938.0,On time
+1260,571936,248926,mobile,ended,4.0,567346.0,60.0,mobile,-4.0,On time
+1261,574527,397599,mobile,ended,87.0,572793.0,660.0,mobile,206.0,Late
+1262,540269,403153,mobile,ended,-134.0,537244.0,660.0,mobile,-17.0,On time
+1263,541911,348294,connect,canceled,,544326.0,720.0,connect,-62.0,On time
+1264,542561,374684,mobile,ended,-1.0,545068.0,720.0,mobile,-31.0,On time
+1265,544004,192409,mobile,ended,40.0,506069.0,270.0,mobile,159.0,Late
+1266,544056,289570,mobile,ended,2725.0,534205.0,30.0,mobile,-14.0,On time
+1267,544158,242437,mobile,ended,3.0,542867.0,0.0,mobile,-14.0,On time
+1268,540194,392479,mobile,ended,9.0,556565.0,360.0,mobile,-28.0,On time
+1269,542241,390467,connect,ended,-16.0,537405.0,0.0,connect,95.0,Late
+1270,543055,405005,connect,ended,-26.0,551169.0,720.0,connect,58.0,Late
+1271,543269,365961,mobile,ended,-115.0,535195.0,210.0,mobile,-825.0,On time
+1272,543781,342154,connect,canceled,,537496.0,240.0,connect,47.0,Late
+1273,543861,358082,connect,ended,-41.0,542942.0,120.0,connect,-106.0,On time
+1274,545265,387753,connect,ended,-483.0,546021.0,720.0,connect,-5.0,On time
+1275,546214,386880,mobile,ended,1203.0,536671.0,330.0,mobile,-12.0,On time
+1276,546641,371387,mobile,ended,-1005.0,549907.0,60.0,mobile,4.0,Late
+1277,546943,368432,mobile,ended,0.0,560801.0,0.0,mobile,3.0,Late
+1278,547430,411521,mobile,ended,-3.0,547755.0,210.0,mobile,62.0,Late
+1279,549462,381708,connect,ended,142.0,548698.0,60.0,connect,13.0,Late
+1280,551892,376491,connect,ended,-96.0,550998.0,540.0,connect,-56.0,On time
+1281,551957,359045,connect,ended,3.0,546597.0,30.0,connect,-69.0,On time
+1282,551983,264870,mobile,ended,-1.0,550875.0,150.0,mobile,-129.0,On time
+1283,552582,251447,connect,ended,-60.0,549512.0,630.0,connect,-165.0,On time
+1284,544605,304392,connect,ended,-7.0,528643.0,120.0,connect,13.0,Late
+1285,544762,300505,connect,ended,-67.0,548050.0,90.0,connect,-538.0,On time
+1286,545486,336522,mobile,ended,6.0,545384.0,420.0,mobile,31.0,Late
+1287,545731,409227,mobile,ended,-12.0,545485.0,300.0,mobile,51.0,Late
+1288,547103,392656,mobile,ended,,542106.0,450.0,mobile,,On time
+1289,547299,321676,mobile,ended,-156.0,549756.0,30.0,mobile,3.0,Late
+1290,548190,349678,connect,canceled,,547238.0,180.0,connect,-652.0,On time
+1291,549701,395266,mobile,ended,-57.0,546447.0,150.0,mobile,-22.0,On time
+1292,551070,359800,mobile,ended,-40.0,548225.0,60.0,mobile,184.0,Late
+1293,551724,228703,connect,ended,102.0,549401.0,30.0,connect,-5.0,On time
+1294,539751,374684,mobile,ended,3.0,537514.0,660.0,mobile,20.0,Late
+1295,540382,310444,connect,ended,-120.0,533896.0,210.0,connect,265.0,Late
+1296,566333,413083,mobile,ended,11.0,555971.0,510.0,mobile,-30.0,On time
+1297,566344,176220,connect,ended,-86.0,561304.0,330.0,connect,-75.0,On time
+1298,566831,384942,mobile,ended,-464.0,518025.0,720.0,mobile,132.0,Late
+1299,548371,229411,mobile,ended,-43.0,539104.0,270.0,mobile,-29.0,On time
+1300,548540,299063,connect,ended,-147.0,549939.0,150.0,connect,-112.0,On time
+1301,549328,373864,connect,canceled,,550704.0,120.0,connect,-2.0,On time
+1302,551104,366371,connect,ended,7.0,550102.0,30.0,connect,-37.0,On time
+1303,551151,396009,connect,ended,156.0,545980.0,480.0,connect,1.0,Late
+1304,567863,385128,mobile,ended,31.0,543629.0,30.0,mobile,72.0,Late
+1305,540016,357860,connect,ended,16.0,542394.0,570.0,connect,-9.0,On time
+1306,541068,389147,mobile,ended,3.0,537097.0,210.0,mobile,-722.0,On time
+1307,541215,374486,mobile,ended,47.0,539938.0,180.0,mobile,144.0,Late
+1308,541363,381123,mobile,ended,-46.0,540040.0,120.0,mobile,89.0,Late
+1309,541531,356673,mobile,ended,130.0,539422.0,0.0,mobile,92.0,Late
+1310,541570,358567,connect,ended,-112.0,550224.0,720.0,connect,-7.0,On time
+1311,543223,376311,connect,canceled,,560879.0,600.0,connect,21.0,Late
+1312,543512,406388,mobile,ended,24.0,565648.0,600.0,mobile,-179.0,On time
+1313,543535,371572,connect,ended,-312.0,548202.0,390.0,connect,29.0,Late
+1314,543805,334190,connect,ended,-130.0,543980.0,0.0,connect,-42.0,On time
+1315,544135,297119,mobile,ended,14.0,539618.0,120.0,mobile,101.0,Late
+1316,544190,275062,mobile,ended,,542797.0,690.0,connect,-73.0,On time
+1317,544677,339215,mobile,ended,56.0,544679.0,0.0,mobile,51.0,Late
+1318,544891,392368,connect,ended,-133.0,546533.0,30.0,connect,-276.0,On time
+1319,548118,408506,mobile,ended,9.0,544336.0,720.0,mobile,-16.0,On time
+1320,542244,241021,connect,ended,80.0,542010.0,60.0,connect,-13.0,On time
+1321,542957,276218,mobile,ended,164.0,568490.0,120.0,mobile,105.0,Late
+1322,543815,385523,connect,ended,-6.0,541049.0,150.0,connect,82.0,Late
+1323,546300,397728,mobile,ended,12.0,557231.0,570.0,mobile,64.0,Late
+1324,546779,408267,mobile,ended,-11.0,549703.0,60.0,mobile,-51.0,On time
+1325,547520,312078,connect,canceled,,547273.0,60.0,connect,32.0,Late
+1326,541398,298117,connect,ended,-197.0,538630.0,150.0,connect,2.0,Late
+1327,542252,353425,connect,ended,-153.0,547277.0,210.0,connect,-42.0,On time
+1328,543394,305525,connect,ended,-12.0,537439.0,720.0,connect,-181.0,On time
+1329,543390,223615,mobile,ended,-45.0,532833.0,0.0,mobile,22.0,Late
+1330,543433,317572,connect,canceled,,535647.0,660.0,connect,-89.0,On time
+1331,543717,402078,mobile,ended,-7.0,537304.0,240.0,mobile,-5.0,On time
+1332,543760,307595,mobile,ended,,542300.0,480.0,mobile,,On time
+1333,544699,384193,connect,canceled,,529134.0,0.0,connect,22.0,Late
+1334,544742,365926,connect,ended,-36.0,551678.0,570.0,connect,-202.0,On time
+1335,544783,345080,connect,canceled,,549248.0,570.0,connect,,On time
+1336,545023,334190,connect,canceled,,547969.0,270.0,connect,-52.0,On time
+1337,545047,380480,mobile,ended,7.0,544328.0,690.0,mobile,20.0,Late
+1338,546242,368604,connect,ended,2.0,555708.0,540.0,connect,-95.0,On time
+1339,547497,404130,connect,ended,3.0,541826.0,90.0,connect,97.0,Late
+1340,568275,341630,mobile,ended,-42.0,559873.0,480.0,mobile,79.0,Late
+1341,568820,264513,mobile,ended,-46.0,566587.0,120.0,mobile,39.0,Late
+1342,569272,366164,connect,ended,7.0,571324.0,120.0,connect,-294.0,On time
+1343,569353,414801,mobile,canceled,,560812.0,510.0,mobile,,On time
+1344,571038,341861,connect,ended,-152.0,574571.0,540.0,connect,-54.0,On time
+1345,572076,367632,connect,ended,50.0,570241.0,180.0,connect,-244.0,On time
+1346,572871,381435,mobile,ended,-20.0,571546.0,60.0,mobile,23.0,Late
+1347,551273,398247,mobile,ended,-6.0,550197.0,630.0,mobile,-3.0,On time
+1348,551530,412295,mobile,ended,103.0,549505.0,30.0,mobile,46.0,Late
+1349,551912,225795,connect,ended,-23.0,567177.0,0.0,connect,-422.0,On time
+1350,552885,377591,connect,canceled,,551334.0,420.0,connect,32.0,Late
+1351,553129,358480,mobile,ended,170.0,551688.0,450.0,mobile,541.0,Late
+1352,553227,276222,mobile,ended,20.0,531664.0,120.0,mobile,4.0,Late
+1353,553540,393083,mobile,ended,23.0,553429.0,390.0,mobile,72.0,Late
+1354,554359,350456,mobile,ended,1401.0,547316.0,540.0,mobile,16.0,Late
+1355,554885,402767,mobile,ended,-13.0,556984.0,660.0,mobile,38.0,Late
+1356,555024,382884,mobile,ended,63.0,545294.0,660.0,mobile,-117.0,On time
+1357,555178,382323,mobile,ended,62.0,552721.0,240.0,mobile,-93.0,On time
+1358,549116,356203,mobile,ended,-110.0,538281.0,150.0,mobile,12.0,Late
+1359,551249,270091,mobile,ended,74.0,546357.0,60.0,mobile,-4.0,On time
+1360,552624,216576,connect,canceled,,523194.0,630.0,connect,-163.0,On time
+1361,543850,262344,connect,ended,51.0,541998.0,210.0,connect,-147.0,On time
+1362,548490,342719,mobile,ended,,546060.0,60.0,mobile,59.0,Late
+1363,548521,310219,connect,ended,,545345.0,120.0,connect,-55.0,On time
+1364,548726,397569,connect,ended,-111.0,546439.0,60.0,connect,-95.0,On time
+1365,550717,377119,connect,ended,59.0,545344.0,30.0,mobile,-8.0,On time
+1366,543690,387614,mobile,ended,235.0,541885.0,300.0,mobile,38.0,Late
+1367,544908,265664,connect,ended,-961.0,540077.0,690.0,connect,-20.0,On time
+1368,546332,214635,connect,ended,31.0,547177.0,0.0,connect,-548.0,On time
+1369,546707,335276,connect,canceled,,545768.0,0.0,connect,-27.0,On time
+1370,546889,303652,mobile,ended,79.0,546472.0,390.0,mobile,310.0,Late
+1371,546954,350705,mobile,ended,-47.0,548000.0,90.0,mobile,4.0,Late
+1372,549212,344576,mobile,ended,17.0,549196.0,120.0,mobile,-32.0,On time
+1373,549277,387223,mobile,ended,57.0,546350.0,30.0,mobile,-12.0,On time
+1374,549461,305876,mobile,ended,17.0,523875.0,0.0,mobile,,On time
+1375,550255,350873,connect,canceled,,559401.0,240.0,connect,-84.0,On time
+1376,550683,411846,mobile,canceled,,548701.0,180.0,mobile,,On time
+1377,551169,405005,connect,ended,58.0,544486.0,0.0,connect,10.0,Late
+1378,552606,336902,mobile,ended,-90.0,533303.0,600.0,mobile,-340.0,On time
+1379,553595,388206,mobile,ended,-24.0,513941.0,570.0,mobile,64.0,Late
+1380,553889,356758,mobile,ended,23.0,543278.0,540.0,mobile,-46.0,On time
+1381,554498,248889,connect,ended,-18.0,559060.0,720.0,connect,-50.0,On time
+1382,555857,401088,mobile,ended,36.0,552180.0,60.0,mobile,13.0,Late
+1383,554425,364411,mobile,ended,105.0,557974.0,600.0,mobile,596.0,Late
+1384,555076,369845,mobile,ended,-22.0,553278.0,690.0,mobile,-32.0,On time
+1385,555388,362255,mobile,ended,36.0,531363.0,660.0,mobile,-37.0,On time
+1386,555950,364160,connect,ended,27.0,550502.0,120.0,connect,-79.0,On time
+1387,556933,291932,connect,ended,-23.0,559594.0,60.0,connect,-408.0,On time
+1388,556998,222819,mobile,ended,42.0,557193.0,660.0,mobile,-35.0,On time
+1389,558185,401869,connect,ended,-9.0,556469.0,510.0,connect,231.0,Late
+1390,559898,362187,connect,ended,-8.0,556725.0,240.0,connect,-633.0,On time
+1391,559935,409750,mobile,ended,60.0,562535.0,660.0,mobile,-42.0,On time
+1392,563790,398586,connect,ended,-149.0,565280.0,600.0,connect,-137.0,On time
+1393,564244,377594,mobile,canceled,,562153.0,180.0,mobile,50.0,Late
+1394,564703,385629,connect,ended,-28.0,564926.0,180.0,connect,-484.0,On time
+1395,564980,341037,connect,canceled,,562653.0,510.0,connect,158.0,Late
+1396,565006,414230,mobile,ended,26.0,567764.0,720.0,mobile,-33.0,On time
+1397,565007,362507,connect,ended,35.0,567477.0,720.0,connect,0.0,On time
+1398,557333,410887,mobile,ended,77.0,550290.0,300.0,mobile,17.0,Late
+1399,558854,407865,mobile,ended,45.0,557408.0,360.0,mobile,7.0,Late
+1400,559519,381012,mobile,ended,-15.0,553964.0,0.0,mobile,-707.0,On time
+1401,560165,304775,connect,ended,-34.0,552359.0,240.0,connect,-118.0,On time
+1402,560879,376311,connect,ended,21.0,563536.0,300.0,connect,-255.0,On time
+1403,562118,402078,mobile,ended,-74.0,560643.0,150.0,mobile,20.0,Late
+1404,563709,343003,mobile,ended,,561739.0,660.0,mobile,,On time
+1405,564327,412869,mobile,ended,3098.0,562932.0,90.0,mobile,105.0,Late
+1406,564510,367632,connect,ended,-579.0,563613.0,720.0,connect,11.0,Late
+1407,549864,175887,connect,ended,72.0,558049.0,720.0,connect,32.0,Late
+1408,550005,392368,connect,canceled,,544853.0,90.0,connect,-14.0,On time
+1409,550335,364199,mobile,canceled,,515060.0,60.0,mobile,452.0,Late
+1410,550497,392847,connect,ended,141.0,554124.0,0.0,connect,-9.0,On time
+1411,550757,345080,connect,ended,-55.0,549248.0,720.0,connect,,On time
+1412,551313,400293,mobile,ended,88.0,537821.0,0.0,mobile,-55.0,On time
+1413,554913,351258,mobile,ended,0.0,555581.0,270.0,mobile,250.0,Late
+1414,556063,388795,mobile,ended,101.0,551168.0,90.0,mobile,-31.0,On time
+1415,556230,387976,mobile,canceled,,553955.0,720.0,mobile,885.0,Late
+1416,557078,301301,connect,ended,104.0,555752.0,180.0,connect,119.0,Late
+1417,557587,295830,connect,ended,-404.0,563792.0,720.0,connect,0.0,On time
+1418,557732,374746,mobile,ended,-22.0,547231.0,0.0,mobile,-1.0,On time
+1419,539705,406161,mobile,canceled,,559887.0,0.0,mobile,5.0,Late
+1420,540254,383144,connect,ended,75.0,534854.0,120.0,connect,-44.0,On time
+1421,540509,406902,mobile,ended,35.0,536255.0,30.0,mobile,74.0,Late
+1422,540779,384193,connect,ended,6.0,550547.0,0.0,connect,-62.0,On time
+1423,541103,359864,mobile,ended,-69.0,527333.0,60.0,mobile,15.0,Late
+1424,542041,208090,mobile,ended,2.0,541715.0,30.0,mobile,-20.0,On time
+1425,542083,385131,connect,ended,-12.0,542592.0,180.0,connect,-428.0,On time
+1426,542384,344254,connect,ended,97.0,539674.0,180.0,connect,125.0,Late
+1427,542573,402679,mobile,ended,,542341.0,0.0,mobile,,On time
+1428,542909,407865,mobile,ended,114.0,535365.0,30.0,mobile,20.0,Late
+1429,542993,258737,mobile,ended,39.0,526456.0,600.0,mobile,-131.0,On time
+1430,556659,310219,connect,ended,-70.0,549808.0,480.0,connect,54.0,Late
+1431,556716,364160,connect,ended,127.0,560217.0,30.0,mobile,18.0,Late
+1432,556762,329718,mobile,ended,2.0,566035.0,120.0,mobile,-17.0,On time
+1433,557012,358772,connect,ended,-29.0,553385.0,60.0,connect,-71.0,On time
+1434,557706,399575,connect,ended,-17.0,548718.0,720.0,connect,73.0,Late
+1435,558046,401869,connect,canceled,,556469.0,480.0,connect,231.0,Late
+1436,558539,384983,mobile,ended,21.0,554384.0,60.0,mobile,69.0,Late
+1437,558993,412141,mobile,ended,-1227.0,556871.0,600.0,mobile,,On time
+1438,559386,395385,mobile,ended,2499.0,556228.0,690.0,mobile,1.0,Late
+1439,559897,382302,connect,ended,99.0,558352.0,660.0,connect,-10.0,On time
+1440,563382,381754,mobile,ended,463.0,561956.0,120.0,mobile,-151.0,On time
+1441,564129,368506,mobile,ended,-41.0,555811.0,600.0,mobile,62.0,Late
+1442,564601,317683,mobile,ended,93.0,560650.0,30.0,mobile,46.0,Late
+1443,564616,383443,connect,ended,-113.0,563616.0,540.0,connect,-42.0,On time
+1444,558724,380479,mobile,ended,13.0,555526.0,570.0,mobile,52.0,Late
+1445,561362,352528,connect,ended,-21.0,527111.0,600.0,connect,100.0,Late
+1446,562011,282433,mobile,canceled,,557920.0,210.0,mobile,7.0,Late
+1447,562201,412104,mobile,ended,-119.0,563920.0,120.0,mobile,92.0,Late
+1448,564664,361789,mobile,canceled,,564691.0,600.0,mobile,-97.0,On time
+1449,565046,409523,mobile,ended,,559547.0,0.0,mobile,,On time
+1450,565255,374809,connect,ended,-97.0,566437.0,90.0,connect,2.0,Late
+1451,565826,387980,mobile,ended,-36.0,565423.0,270.0,mobile,93.0,Late
+1452,565273,351468,mobile,ended,-209.0,559473.0,90.0,mobile,62.0,Late
+1453,565284,403149,mobile,ended,31.0,563877.0,150.0,mobile,79.0,Late
+1454,565885,379092,mobile,canceled,,563199.0,330.0,mobile,4.0,Late
+1455,566516,337217,mobile,ended,48.0,561111.0,660.0,mobile,10.0,Late
+1456,568190,381787,connect,canceled,,529051.0,60.0,connect,-272.0,On time
+1457,568312,414757,mobile,ended,-31.0,564212.0,60.0,mobile,-164.0,On time
+1458,569487,335276,connect,ended,-40.0,560375.0,600.0,connect,140.0,Late
+1459,570644,374360,connect,ended,18.0,567682.0,60.0,connect,172.0,Late
+1460,571208,293910,mobile,ended,-28.0,575013.0,600.0,mobile,-15.0,On time
+1461,573651,380019,mobile,ended,363.0,568249.0,120.0,mobile,-8.0,On time
+1462,567609,297832,mobile,ended,5.0,566110.0,0.0,mobile,-1102.0,On time
+1463,569004,341881,connect,ended,41.0,565020.0,630.0,connect,-123.0,On time
+1464,547078,347208,connect,ended,133.0,545645.0,0.0,connect,-147.0,On time
+1465,548739,365148,mobile,ended,25.0,547665.0,60.0,mobile,55.0,Late
+1466,548963,374626,mobile,ended,48.0,536523.0,720.0,mobile,68.0,Late
+1467,550109,373927,mobile,canceled,,552732.0,420.0,mobile,186.0,Late
+1468,550705,367632,connect,ended,205.0,564510.0,420.0,connect,-579.0,On time
+1469,550938,334190,connect,ended,110.0,549759.0,0.0,connect,142.0,Late
+1470,569662,368432,mobile,ended,35.0,572914.0,690.0,mobile,-11.0,On time
+1471,570143,174243,mobile,ended,80.0,565219.0,120.0,mobile,10.0,Late
+1472,571746,331673,mobile,ended,35.0,570526.0,210.0,mobile,23.0,Late
+1473,572953,392055,mobile,ended,5.0,562635.0,300.0,mobile,-22.0,On time
+1474,547509,350904,mobile,ended,44.0,536164.0,480.0,mobile,-76.0,On time
+1475,551041,390467,connect,ended,-194.0,566227.0,630.0,connect,-17.0,On time
+1476,551166,342699,connect,canceled,,548950.0,60.0,connect,98.0,Late
+1477,551922,380001,mobile,ended,,540803.0,120.0,mobile,51.0,Late
+1478,552238,386259,connect,ended,-10.0,550185.0,420.0,connect,15.0,Late
+1479,552256,320824,connect,ended,-134.0,529301.0,720.0,connect,-308.0,On time
+1480,552472,352528,connect,canceled,,546489.0,180.0,connect,-533.0,On time
+1481,551693,412114,mobile,ended,-40.0,548975.0,60.0,mobile,-7.0,On time
+1482,551778,394305,mobile,ended,13.0,549859.0,150.0,mobile,8.0,Late
+1483,554143,401387,mobile,ended,-10.0,553151.0,60.0,mobile,-1.0,On time
+1484,555012,398697,mobile,ended,218.0,527035.0,210.0,mobile,23.0,Late
+1485,553682,401475,connect,ended,37.0,552583.0,420.0,connect,11.0,Late
+1486,554118,366164,connect,ended,113.0,550687.0,180.0,connect,-139.0,On time
+1487,554952,290726,connect,ended,-65.0,561666.0,480.0,connect,-1.0,On time
+1488,555079,388895,mobile,canceled,,552415.0,720.0,mobile,-91.0,On time
+1489,558030,316678,connect,ended,-158.0,549892.0,240.0,connect,23.0,Late
+1490,553252,394656,connect,ended,6.0,546275.0,540.0,connect,-663.0,On time
+1491,553988,404791,mobile,ended,-402.0,557032.0,60.0,mobile,8.0,Late
+1492,554954,403749,mobile,ended,-152.0,548087.0,540.0,mobile,,On time
+1493,553223,398586,connect,ended,172.0,544811.0,30.0,connect,50.0,Late
+1494,553572,383499,mobile,ended,2.0,553742.0,420.0,mobile,-23.0,On time
+1495,553999,406161,mobile,ended,-110.0,556375.0,0.0,mobile,9.0,Late
+1496,554812,298516,connect,ended,8.0,548564.0,150.0,connect,-26.0,On time
+1497,554861,343003,mobile,ended,,539919.0,60.0,mobile,,On time
+1498,555556,407607,mobile,canceled,,558491.0,720.0,connect,25.0,Late
+1499,556514,409197,mobile,ended,-3.0,551728.0,720.0,mobile,-56.0,On time
+1500,556918,380833,mobile,ended,35.0,532556.0,90.0,mobile,62.0,Late
+1501,565868,376901,connect,ended,-19.0,562254.0,30.0,connect,-6.0,On time
+1502,566574,406625,connect,ended,-40.0,565247.0,210.0,connect,0.0,On time
+1503,567769,338571,mobile,ended,19.0,555206.0,90.0,mobile,42.0,Late
+1504,505758,392805,mobile,ended,3.0,528920.0,90.0,mobile,83.0,Late
+1505,526752,389451,mobile,ended,5.0,532361.0,630.0,mobile,4.0,Late
+1506,527873,394217,mobile,canceled,,539939.0,420.0,mobile,75.0,Late
+1507,533792,401649,connect,ended,106.0,546026.0,30.0,connect,2.0,Late
+1508,568519,295783,connect,canceled,,561162.0,600.0,connect,74.0,Late
+1509,567835,409523,mobile,ended,967.0,565046.0,630.0,mobile,,On time
+1510,568079,227042,mobile,ended,40.0,566621.0,600.0,mobile,52.0,Late
+1511,568778,344254,connect,ended,,566711.0,60.0,connect,37.0,Late
+1512,568815,385629,connect,ended,47.0,564703.0,0.0,connect,-28.0,On time
+1513,569287,393723,connect,ended,,563129.0,0.0,connect,-72.0,On time
+1514,571227,298117,connect,ended,-13.0,571310.0,600.0,connect,56.0,Late
+1515,540769,396009,connect,ended,-6.0,539540.0,60.0,connect,-47.0,On time
+1516,541283,305733,mobile,ended,34.0,536691.0,60.0,mobile,84.0,Late
+1517,542592,385131,connect,ended,-428.0,535537.0,120.0,connect,-102.0,On time
+1518,542666,348178,mobile,ended,22.0,541891.0,90.0,mobile,-12.0,On time
+1519,543426,398802,mobile,ended,51.0,546955.0,720.0,mobile,25.0,Late
+1520,543793,408983,mobile,ended,1073.0,540001.0,690.0,mobile,675.0,Late
+1521,543886,392718,mobile,ended,,538485.0,660.0,mobile,,On time
+1522,573207,216576,connect,ended,93.0,565493.0,300.0,connect,57.0,Late
+1523,573945,248926,mobile,ended,36.0,571936.0,690.0,mobile,4.0,Late
+1524,575353,341861,connect,ended,-36.0,571038.0,60.0,connect,-152.0,On time
+1525,553217,273577,mobile,ended,0.0,538723.0,210.0,mobile,-33.0,On time
+1526,553596,407865,mobile,ended,17.0,558854.0,690.0,mobile,45.0,Late
+1527,554420,374741,connect,ended,-89.0,565100.0,0.0,connect,-71.0,On time
+1528,556060,392479,mobile,ended,-70.0,565840.0,660.0,mobile,-94.0,On time
+1529,536480,392368,connect,ended,-242.0,537825.0,690.0,connect,5.0,Late
+1530,545069,399431,mobile,canceled,,536579.0,210.0,mobile,64.0,Late
+1531,543275,340699,mobile,ended,69.0,521297.0,60.0,mobile,-53.0,On time
+1532,543564,381583,mobile,ended,,535821.0,60.0,mobile,-10.0,On time
+1533,543930,409636,mobile,ended,8.0,539399.0,720.0,mobile,93.0,Late
+1534,544421,359998,mobile,ended,18.0,557397.0,60.0,mobile,-333.0,On time
+1535,544867,385423,mobile,canceled,,543882.0,90.0,mobile,14.0,Late
+1536,544991,404791,mobile,ended,106.0,526927.0,720.0,mobile,44.0,Late
+1537,545437,383443,connect,ended,26.0,541311.0,120.0,connect,-802.0,On time
+1538,545656,223204,mobile,ended,,540032.0,360.0,mobile,,On time
+1539,545705,352039,connect,ended,2.0,548559.0,720.0,connect,19.0,Late
+1540,545767,300505,connect,ended,32.0,532682.0,90.0,connect,-41.0,On time
+1541,548501,370907,mobile,ended,-3.0,548865.0,720.0,mobile,25.0,Late
+1542,548950,342699,connect,ended,98.0,546290.0,30.0,connect,-36.0,On time
+1543,548971,399575,connect,ended,102.0,549086.0,180.0,connect,-58.0,On time
+1544,550069,368354,mobile,ended,-488.0,547423.0,90.0,mobile,53.0,Late
+1545,557316,381583,mobile,ended,10.0,554028.0,150.0,mobile,100.0,Late
+1546,558352,382302,connect,ended,-10.0,554807.0,60.0,connect,-138.0,On time
+1547,558535,318911,mobile,ended,191.0,552015.0,330.0,mobile,26.0,Late
+1548,559040,273577,mobile,ended,427.0,562925.0,720.0,mobile,29.0,Late
+1549,559287,334190,connect,ended,-97.0,560890.0,120.0,connect,-19.0,On time
+1550,536874,331900,mobile,ended,69.0,547182.0,120.0,mobile,4.0,Late
+1551,538233,325139,mobile,ended,150.0,539837.0,270.0,mobile,62.0,Late
+1552,538543,330013,mobile,canceled,,540896.0,600.0,mobile,-173.0,On time
+1553,539750,295860,mobile,ended,103.0,542566.0,300.0,mobile,316.0,Late
+1554,557433,381787,connect,ended,-56.0,558480.0,0.0,connect,-15.0,On time
+1555,558357,357530,connect,ended,-63.0,558780.0,120.0,connect,-7.0,On time
+1556,558762,218964,mobile,ended,437.0,557353.0,630.0,mobile,324.0,Late
+1557,559725,362507,connect,ended,-91.0,557052.0,60.0,connect,-29.0,On time
+1558,559959,376601,mobile,ended,-383.0,559138.0,60.0,mobile,33.0,Late
+1559,560094,397466,mobile,ended,,564099.0,60.0,mobile,,On time
+1560,558219,376677,connect,canceled,,563347.0,660.0,connect,-212.0,On time
+1561,559047,392805,mobile,ended,288.0,546762.0,0.0,mobile,1.0,Late
+1562,559490,268787,mobile,ended,-20.0,552187.0,0.0,mobile,8.0,Late
+1563,559528,255576,connect,ended,9.0,558076.0,660.0,connect,-22.0,On time
+1564,561044,372809,connect,canceled,,557343.0,690.0,connect,104.0,Late
+1565,561559,390927,connect,canceled,,537960.0,0.0,connect,31.0,Late
+1566,562480,173061,connect,ended,,560790.0,690.0,connect,,On time
+1567,563577,236059,mobile,ended,397.0,567616.0,90.0,mobile,59.0,Late
+1568,563772,293910,mobile,ended,22.0,555354.0,510.0,mobile,-713.0,On time
+1569,564096,310553,connect,ended,3.0,561903.0,0.0,connect,-7.0,On time
+1570,550814,339371,mobile,ended,536.0,518660.0,90.0,mobile,32.0,Late
+1571,550894,304068,mobile,ended,-135.0,543851.0,60.0,mobile,12.0,Late
+1572,551643,392479,mobile,ended,-139.0,553125.0,240.0,mobile,88.0,Late
+1573,551867,375834,mobile,ended,96.0,547655.0,120.0,mobile,89.0,Late
+1574,546141,386722,mobile,canceled,,544832.0,210.0,mobile,53.0,Late
+1575,546819,334190,connect,canceled,,547969.0,210.0,connect,-52.0,On time
+1576,548152,410939,connect,ended,,557055.0,0.0,connect,-20.0,On time
+1577,548896,318371,mobile,ended,-89.0,551963.0,330.0,mobile,62.0,Late
+1578,561806,221830,mobile,ended,967.0,546263.0,600.0,mobile,-21.0,On time
+1579,560305,195467,mobile,ended,,558504.0,720.0,mobile,,On time
+1580,560354,338243,connect,ended,54.0,557661.0,180.0,connect,-626.0,On time
+1581,560718,324640,mobile,ended,156.0,542037.0,240.0,mobile,188.0,Late
+1582,562612,413896,mobile,ended,-8.0,560091.0,0.0,mobile,527.0,Late
+1583,562894,285452,connect,ended,-14.0,560823.0,660.0,connect,-37.0,On time
+1584,562977,405611,connect,ended,210.0,558473.0,120.0,mobile,-203.0,On time
+1585,563090,386086,mobile,ended,39.0,560501.0,0.0,mobile,15.0,Late
+1586,563517,363133,connect,ended,78.0,565338.0,120.0,connect,-35.0,On time
+1587,564912,340064,mobile,ended,75.0,533701.0,600.0,mobile,-121.0,On time
+1588,556965,187740,mobile,ended,4.0,556605.0,0.0,mobile,-15.0,On time
+1589,557246,413139,mobile,canceled,,553934.0,120.0,mobile,-61.0,On time
+1590,557659,298117,connect,ended,22.0,552177.0,360.0,connect,147.0,Late
+1591,557817,289112,connect,ended,63.0,540139.0,690.0,connect,-17.0,On time
+1592,557969,385721,connect,ended,-104.0,551402.0,600.0,connect,94.0,Late
+1593,558520,386322,mobile,ended,32.0,558507.0,660.0,mobile,-89.0,On time
+1594,558654,366981,connect,ended,8.0,542471.0,630.0,connect,-98.0,On time
+1595,558684,412528,mobile,ended,49.0,557553.0,270.0,mobile,50.0,Late
+1596,559259,412093,mobile,ended,74.0,553100.0,0.0,mobile,67.0,Late
+1597,559493,285452,connect,canceled,,556448.0,30.0,connect,14.0,Late
+1598,559657,363386,mobile,ended,229.0,555952.0,120.0,mobile,-8.0,On time
+1599,559701,401475,connect,ended,-51.0,552371.0,600.0,connect,47.0,Late
+1600,560537,308181,connect,canceled,,559632.0,90.0,connect,33.0,Late
+1601,561079,376652,mobile,ended,11.0,560197.0,0.0,mobile,-7.0,On time
+1602,562335,367627,mobile,ended,84.0,565711.0,600.0,mobile,-86.0,On time
+1603,560826,406902,mobile,ended,64.0,556895.0,660.0,mobile,111.0,Late
+1604,541294,366866,mobile,ended,-158.0,540776.0,120.0,mobile,6.0,Late
+1605,541942,391618,connect,ended,144.0,531518.0,60.0,connect,3.0,Late
+1606,542598,348526,connect,ended,148.0,545276.0,510.0,connect,-19.0,On time
+1607,543008,363761,mobile,ended,1341.0,567693.0,720.0,mobile,114.0,Late
+1608,543572,356106,connect,canceled,,541079.0,120.0,connect,-24.0,On time
+1609,544186,390467,connect,ended,65.0,542241.0,690.0,connect,-16.0,On time
+1610,544445,195888,mobile,ended,-22.0,544632.0,690.0,mobile,34.0,Late
+1611,544712,408844,mobile,ended,-27.0,537812.0,600.0,mobile,-1.0,On time
+1612,550903,389785,connect,ended,-18.0,540617.0,180.0,connect,-884.0,On time
+1613,550972,360981,mobile,canceled,,548903.0,60.0,mobile,221.0,Late
+1614,551055,409197,mobile,ended,-91.0,543333.0,240.0,mobile,3.0,Late
+1615,552306,356673,mobile,ended,-72.0,551565.0,180.0,mobile,176.0,Late
+1616,552765,366981,connect,ended,-10.0,544722.0,420.0,connect,-822.0,On time
+1617,552462,381787,connect,canceled,,548193.0,150.0,connect,158.0,Late
+1618,555454,381183,mobile,ended,232.0,552738.0,60.0,mobile,165.0,Late
+1619,565509,381183,mobile,ended,44.0,562526.0,0.0,mobile,-206.0,On time
+1620,565678,348485,connect,ended,39.0,560263.0,360.0,connect,13.0,Late
+1621,566159,390479,mobile,ended,134.0,564323.0,0.0,mobile,-22.0,On time
+1622,563999,371632,connect,ended,-88.0,556474.0,540.0,connect,118.0,Late
+1623,564699,415572,mobile,ended,2193.0,565228.0,240.0,mobile,4258.0,Late
+1624,565099,413351,mobile,ended,9.0,561247.0,0.0,mobile,2.0,Late
+1625,565203,351162,connect,ended,-39.0,557093.0,60.0,connect,-37.0,On time
+1626,565254,212965,connect,ended,98.0,560539.0,420.0,connect,-6.0,On time
+1627,565399,407315,mobile,ended,70.0,552810.0,120.0,mobile,45.0,Late
+1628,566071,403054,mobile,ended,-166.0,565660.0,480.0,mobile,2.0,Late
+1629,564600,272430,connect,ended,-61.0,559220.0,570.0,connect,-746.0,On time
+1630,565020,341881,connect,ended,-123.0,563188.0,240.0,connect,-38.0,On time
+1631,565393,370055,connect,ended,-93.0,563668.0,660.0,connect,24.0,Late
+1632,565840,392479,mobile,ended,-94.0,569171.0,240.0,mobile,-59.0,On time
+1633,544851,392718,mobile,ended,75.0,565353.0,330.0,mobile,-47.0,On time
+1634,545223,310553,connect,ended,-45.0,543354.0,720.0,connect,-71.0,On time
+1635,546139,375047,connect,ended,-4.0,557540.0,240.0,connect,-69.0,On time
+1636,546501,314456,connect,ended,-210.0,540134.0,210.0,connect,62.0,Late
+1637,546877,334190,connect,canceled,,538875.0,450.0,connect,-875.0,On time
+1638,546959,405005,connect,ended,38.0,545715.0,240.0,connect,47.0,Late
+1639,547428,160062,mobile,canceled,,573462.0,540.0,mobile,-88.0,On time
+1640,548101,390590,connect,canceled,,545833.0,210.0,connect,46.0,Late
+1641,566407,381857,connect,ended,-306.0,566456.0,390.0,connect,-15.0,On time
+1642,565263,339138,connect,ended,-119.0,563988.0,0.0,connect,-5.0,On time
+1643,566850,400181,mobile,ended,16.0,561893.0,720.0,mobile,52.0,Late
+1644,567093,415726,mobile,ended,-2.0,565126.0,270.0,mobile,4.0,Late
+1645,567371,317572,connect,ended,-114.0,568169.0,120.0,connect,-76.0,On time
+1646,567389,397217,connect,canceled,,564542.0,0.0,connect,-97.0,On time
+1647,567644,216701,mobile,ended,-1408.0,565921.0,210.0,mobile,39.0,Late
+1648,567795,405005,connect,ended,-68.0,560343.0,210.0,connect,-46.0,On time
+1649,568224,381499,connect,ended,-93.0,562174.0,0.0,connect,73.0,Late
+1650,569141,379462,mobile,ended,-99.0,557980.0,120.0,mobile,1.0,Late
+1651,571018,371625,mobile,ended,25.0,549891.0,150.0,mobile,-14.0,On time
+1652,571191,413896,mobile,ended,-29.0,572986.0,60.0,mobile,63.0,Late
+1653,571709,371632,connect,ended,-38.0,568753.0,480.0,connect,-18.0,On time
+1654,567165,311943,mobile,ended,-5.0,569360.0,570.0,mobile,87.0,Late
+1655,567364,403871,mobile,ended,-5.0,560535.0,450.0,mobile,133.0,Late
+1656,556850,346952,mobile,ended,48.0,553865.0,30.0,mobile,45.0,Late
+1657,557086,398733,mobile,ended,4.0,555668.0,0.0,mobile,17.0,Late
+1658,557279,382060,mobile,ended,57.0,547290.0,120.0,mobile,,On time
+1659,557930,400886,mobile,ended,56.0,553320.0,450.0,mobile,-1414.0,On time
+1660,558628,396435,connect,canceled,,550343.0,420.0,connect,44.0,Late
+1661,559512,248300,connect,ended,58.0,552427.0,0.0,connect,-157.0,On time
+1662,559733,326708,mobile,ended,-23.0,554230.0,180.0,mobile,15.0,Late
+1663,559873,341630,mobile,ended,79.0,558883.0,240.0,mobile,-3.0,On time
+1664,559918,381857,connect,canceled,,558338.0,120.0,connect,-71.0,On time
+1665,560273,275364,connect,canceled,,553244.0,240.0,connect,-880.0,On time
+1666,555190,194356,mobile,ended,0.0,559148.0,510.0,mobile,617.0,Late
+1667,555299,371572,connect,ended,641.0,549796.0,0.0,connect,-96.0,On time
+1668,556725,362187,connect,ended,-633.0,554183.0,210.0,connect,-426.0,On time
+1669,567964,298466,mobile,ended,-22.0,527165.0,150.0,mobile,-892.0,On time
+1670,568455,382302,connect,ended,-35.0,574639.0,660.0,connect,6.0,Late
+1671,568853,335276,connect,canceled,,560375.0,690.0,connect,140.0,Late
+1672,570013,383344,connect,ended,33.0,569963.0,360.0,connect,61.0,Late
+1673,573460,347208,connect,ended,-1.0,572521.0,0.0,connect,-875.0,On time
+1674,573770,356106,connect,ended,-14.0,573913.0,390.0,connect,156.0,Late
+1675,568278,351549,connect,ended,355.0,565967.0,510.0,connect,12.0,Late
+1676,568428,351660,connect,canceled,,563040.0,0.0,connect,41.0,Late
+1677,568585,351660,connect,ended,-45.0,563040.0,90.0,connect,41.0,Late
+1678,568789,402153,mobile,ended,-88.0,568035.0,720.0,mobile,47.0,Late
+1679,569282,381481,mobile,ended,68.0,565511.0,510.0,mobile,,On time
+1680,570713,411578,mobile,ended,,566615.0,420.0,mobile,-137.0,On time
+1681,571607,374360,connect,ended,-5.0,570644.0,0.0,connect,18.0,Late
+1682,571797,338647,mobile,canceled,,570367.0,630.0,mobile,74.0,Late
+1683,567535,368391,mobile,ended,65.0,539310.0,30.0,mobile,30.0,Late
+1684,568416,336935,connect,ended,2.0,559824.0,630.0,connect,14.0,Late
+1685,568421,410521,mobile,ended,98.0,554767.0,180.0,mobile,111.0,Late
+1686,568649,378003,connect,ended,52.0,572385.0,90.0,connect,153.0,Late
+1687,568704,385628,connect,ended,49.0,563946.0,630.0,connect,-146.0,On time
+1688,568708,275364,connect,ended,39.0,563004.0,0.0,connect,-72.0,On time
+1689,568993,370513,mobile,ended,18.0,528782.0,30.0,mobile,3.0,Late
+1690,569504,337219,connect,ended,-317.0,555979.0,660.0,connect,-111.0,On time
+1691,569818,361055,mobile,ended,-5.0,506459.0,510.0,mobile,-28.0,On time
+1692,549762,280227,connect,ended,-170.0,551649.0,90.0,connect,34.0,Late
+1693,550442,374741,connect,ended,78.0,555908.0,180.0,connect,-75.0,On time
+1694,550923,245154,connect,canceled,,549765.0,630.0,connect,11.0,Late
+1695,567748,316817,mobile,canceled,,560395.0,690.0,mobile,-51.0,On time
+1696,568064,335276,connect,ended,121.0,573893.0,180.0,connect,-19.0,On time
+1697,569362,404953,mobile,ended,142.0,568070.0,90.0,mobile,78.0,Late
+1698,569382,293523,mobile,ended,40.0,567028.0,720.0,mobile,-84.0,On time
+1699,571552,403962,connect,canceled,,574540.0,90.0,connect,153.0,Late
+1700,572413,350149,mobile,ended,79.0,574325.0,600.0,mobile,169.0,Late
+1701,575574,173061,connect,ended,42.0,574480.0,240.0,connect,-374.0,On time
+1702,557655,311664,connect,canceled,,557740.0,570.0,connect,86.0,Late
+1703,557777,407055,connect,ended,-5.0,558647.0,270.0,connect,-60.0,On time
+1704,561066,230201,connect,ended,-57.0,564529.0,0.0,connect,24.0,Late
+1705,563004,275364,connect,ended,-72.0,567827.0,0.0,connect,-6.0,On time
+1706,563942,412139,mobile,ended,-12.0,555548.0,90.0,mobile,31.0,Late
+1707,564205,355805,mobile,ended,41.0,564523.0,30.0,mobile,51.0,Late
+1708,564594,248926,mobile,ended,-68.0,559683.0,150.0,mobile,19.0,Late
+1709,564678,406124,connect,ended,,559336.0,300.0,connect,,On time
+1710,565489,355900,connect,ended,-100.0,567036.0,600.0,connect,86.0,Late
+1711,574185,356540,mobile,ended,,573533.0,180.0,mobile,,On time
+1712,574757,340699,mobile,ended,129.0,570928.0,0.0,mobile,51.0,Late
+1713,575049,382444,mobile,canceled,,568419.0,330.0,mobile,28.0,Late
+1714,554395,393373,mobile,ended,-1441.0,546634.0,0.0,mobile,-9.0,On time
+1715,555167,413558,mobile,ended,,557703.0,0.0,mobile,-54.0,On time
+1716,555916,178845,mobile,ended,9.0,550592.0,300.0,mobile,0.0,On time
+1717,556029,299063,connect,ended,-14.0,548540.0,120.0,connect,-147.0,On time
+1718,556533,241021,connect,ended,102.0,557598.0,150.0,connect,120.0,Late
+1719,563473,348294,connect,ended,64.0,561643.0,0.0,connect,16.0,Late
+1720,563711,310661,mobile,ended,245.0,549715.0,90.0,mobile,87.0,Late
+1721,563925,241021,connect,ended,-31.0,563827.0,30.0,connect,-486.0,On time
+1722,564111,369648,connect,ended,50.0,561113.0,420.0,connect,-2109.0,On time
+1723,566456,381857,connect,ended,-15.0,565199.0,90.0,connect,-66.0,On time
+1724,567276,388764,mobile,ended,21.0,548208.0,270.0,mobile,20.0,Late
+1725,568263,369381,mobile,ended,346.0,567507.0,180.0,mobile,-82.0,On time
+1726,568295,362199,connect,ended,36.0,567376.0,60.0,connect,,On time
+1727,568758,415034,mobile,ended,-53.0,569808.0,510.0,mobile,-92.0,On time
+1728,541832,354938,mobile,ended,53.0,533526.0,0.0,mobile,-9.0,On time
+1729,542869,300377,mobile,ended,13.0,532441.0,0.0,mobile,21.0,Late
+1730,542965,339015,mobile,ended,-189.0,533719.0,360.0,mobile,322.0,Late
+1731,543503,401911,mobile,ended,82.0,539726.0,120.0,mobile,74.0,Late
+1732,543654,370420,mobile,ended,93.0,506194.0,0.0,mobile,21.0,Late
+1733,572580,288973,mobile,ended,-12.0,571780.0,720.0,mobile,-125.0,On time
+1734,573792,373511,mobile,ended,-118.0,574297.0,30.0,mobile,3.0,Late
+1735,556973,384396,connect,ended,225.0,553994.0,150.0,connect,120.0,Late
+1736,557494,365926,connect,canceled,,544742.0,150.0,connect,-36.0,On time
+1737,557845,405433,mobile,ended,-11.0,557514.0,0.0,mobile,47.0,Late
+1738,559467,290600,connect,ended,89.0,559379.0,630.0,connect,1.0,Late
+1739,559914,284054,mobile,ended,-187.0,554378.0,120.0,mobile,-315.0,On time
+1740,560038,407607,connect,canceled,,558491.0,690.0,connect,25.0,Late
+1741,560407,401387,mobile,ended,43.0,574013.0,90.0,mobile,-514.0,On time
+1742,560439,316678,connect,ended,-8.0,521403.0,60.0,connect,-31.0,On time
+1743,569798,415653,mobile,ended,107.0,568296.0,360.0,mobile,,On time
+1744,573423,358764,mobile,ended,52.0,569793.0,30.0,mobile,50.0,Late
+1745,573429,380069,mobile,ended,,562010.0,30.0,mobile,-96.0,On time
+1746,574789,325328,connect,ended,40.0,562389.0,690.0,connect,16.0,Late
+1747,575860,323777,mobile,ended,-19.0,575053.0,30.0,mobile,22.0,Late
+1748,566001,310571,mobile,ended,22.0,562807.0,300.0,mobile,-14.0,On time
+1749,567264,410255,connect,ended,183.0,564975.0,0.0,connect,-19.0,On time
+1750,569088,394869,mobile,ended,175.0,567711.0,360.0,mobile,148.0,Late
+1751,569229,374486,mobile,ended,46.0,569375.0,570.0,mobile,60.0,Late
+1752,569736,376491,connect,canceled,,571965.0,510.0,connect,17.0,Late
+1753,561334,410939,connect,ended,-157.0,565171.0,0.0,connect,-15.0,On time
+1754,561569,374809,connect,ended,-14.0,540924.0,120.0,connect,2.0,Late
+1755,562310,405005,connect,ended,-29.0,555533.0,450.0,connect,-625.0,On time
+1756,562389,325328,connect,ended,16.0,561921.0,330.0,connect,-9.0,On time
+1757,566230,339993,mobile,ended,-414.0,555368.0,720.0,mobile,138.0,Late
+1758,568164,374298,connect,ended,-43.0,565095.0,60.0,connect,9.0,Late
+1759,568411,358023,mobile,ended,641.0,564155.0,0.0,mobile,-19.0,On time
+1760,568482,386211,mobile,ended,43.0,561829.0,630.0,mobile,-16.0,On time
+1761,568975,315136,connect,ended,58.0,566481.0,150.0,connect,-9.0,On time
+1762,573086,385303,connect,ended,125.0,572075.0,660.0,connect,27.0,Late
+1763,539934,372115,mobile,ended,-50.0,536095.0,720.0,mobile,-161.0,On time
+1764,540973,288973,mobile,ended,17.0,537775.0,570.0,mobile,,On time
+1765,541426,393185,mobile,ended,97.0,538564.0,150.0,mobile,-36.0,On time
+1766,542105,397188,mobile,ended,-66.0,541742.0,720.0,mobile,134.0,Late
+1767,542314,388111,mobile,ended,38.0,509727.0,30.0,mobile,25.0,Late
+1768,543894,383443,connect,ended,-73.0,539684.0,0.0,connect,-166.0,On time
+1769,544444,392327,mobile,ended,352.0,539009.0,660.0,mobile,274.0,Late
+1770,545009,317303,mobile,ended,-3.0,541002.0,120.0,mobile,19.0,Late
+1771,545696,374360,connect,ended,-64.0,550978.0,720.0,connect,0.0,On time
+1772,546489,352528,connect,ended,-533.0,546578.0,570.0,connect,-536.0,On time
+1773,546659,333731,mobile,ended,17.0,548560.0,120.0,mobile,24.0,Late
+1774,547255,334190,connect,ended,49.0,547969.0,240.0,connect,-52.0,On time
+1775,548340,390702,connect,ended,72.0,532915.0,180.0,connect,76.0,Late
+1776,549715,310661,mobile,ended,87.0,560574.0,60.0,mobile,-2.0,On time
+1777,551425,374360,connect,ended,-85.0,559958.0,570.0,connect,-132.0,On time
+1778,551843,396470,mobile,ended,-8.0,545947.0,30.0,mobile,-44.0,On time
+1779,552157,410231,mobile,ended,-40.0,548424.0,330.0,mobile,-7.0,On time
+1780,552213,359045,connect,ended,-91.0,567058.0,60.0,connect,88.0,Late
+1781,552433,349678,connect,canceled,,555522.0,420.0,connect,-47.0,On time
+1782,545142,399431,mobile,ended,-59.0,536579.0,270.0,mobile,64.0,Late
+1783,549928,301799,connect,ended,-52.0,551138.0,540.0,connect,550.0,Late
+1784,550270,399575,connect,ended,51.0,548971.0,690.0,connect,102.0,Late
+1785,551115,360460,connect,ended,31.0,550135.0,60.0,connect,-208.0,On time
+1786,551116,390467,connect,canceled,,548851.0,0.0,connect,-16.0,On time
+1787,552034,361156,mobile,ended,335.0,548172.0,0.0,mobile,-29.0,On time
+1788,552290,370049,mobile,ended,66.0,541329.0,660.0,mobile,-18.0,On time
+1789,552800,335276,connect,ended,-74.0,553412.0,0.0,connect,11.0,Late
+1790,553299,412021,mobile,ended,13.0,552971.0,600.0,mobile,-38.0,On time
+1791,553351,406124,connect,ended,90.0,557210.0,0.0,connect,-10.0,On time
+1792,553447,362187,connect,ended,487.0,548278.0,690.0,connect,-732.0,On time
+1793,553525,404460,mobile,ended,-869.0,552490.0,30.0,mobile,83.0,Late
+1794,553966,400417,mobile,ended,,551662.0,30.0,mobile,55.0,Late
+1795,556396,319886,connect,ended,-22.0,553022.0,30.0,connect,-60.0,On time
+1796,556928,245154,connect,ended,-99.0,556011.0,60.0,connect,99.0,Late
+1797,558711,249274,connect,ended,10.0,542660.0,180.0,mobile,38.0,Late
+1798,558941,370312,mobile,ended,-32.0,547786.0,660.0,mobile,107.0,Late
+1799,559828,376619,mobile,ended,56.0,552342.0,450.0,mobile,-965.0,On time
+1800,559967,340369,connect,ended,-21.0,559032.0,180.0,connect,-40.0,On time
+1801,560206,412025,mobile,ended,-82.0,558245.0,480.0,mobile,24.0,Late
+1802,560500,377781,mobile,ended,-259.0,544750.0,0.0,mobile,-50.0,On time
+1803,560659,223850,mobile,ended,-112.0,559026.0,180.0,mobile,145.0,Late
+1804,561206,312603,connect,ended,10.0,554958.0,30.0,connect,183.0,Late
+1805,561403,412139,mobile,ended,290.0,563942.0,120.0,mobile,-12.0,On time
+1806,561476,410402,mobile,ended,11.0,550186.0,0.0,mobile,21.0,Late
+1807,553522,224455,mobile,ended,,548607.0,210.0,mobile,,On time
+1808,557237,366025,mobile,canceled,,555447.0,360.0,mobile,-1421.0,On time
+1809,559133,335341,mobile,canceled,,558460.0,300.0,mobile,13.0,Late
+1810,559966,395204,connect,ended,19.0,555436.0,720.0,connect,-14.0,On time
+1811,560197,376652,mobile,ended,-7.0,556960.0,420.0,mobile,-13.0,On time
+1812,560740,383344,connect,ended,17.0,534678.0,60.0,connect,164.0,Late
+1813,560787,413181,mobile,canceled,,560542.0,150.0,mobile,4.0,Late
+1814,560998,412455,mobile,canceled,,561577.0,0.0,mobile,-505.0,On time
+1815,561898,404789,mobile,ended,284.0,561771.0,360.0,mobile,268.0,Late
+1816,562282,398733,mobile,ended,126.0,555245.0,570.0,mobile,,On time
+1817,562649,379751,connect,ended,72.0,565386.0,0.0,connect,-103.0,On time
+1818,562166,358480,mobile,ended,-23.0,567436.0,510.0,mobile,-661.0,On time
+1819,564880,320432,mobile,ended,,565649.0,60.0,mobile,-282.0,On time
+1820,565711,367627,mobile,ended,-86.0,561444.0,540.0,mobile,35.0,Late
+1821,565721,381470,mobile,ended,44.0,564855.0,0.0,mobile,-48.0,On time
+1822,565739,353535,mobile,ended,187.0,564894.0,480.0,mobile,56.0,Late
+1823,566008,378689,mobile,canceled,,564756.0,0.0,mobile,39.0,Late
+1824,566017,396034,connect,ended,46.0,569645.0,510.0,connect,-25.0,On time
+1825,566228,390871,connect,canceled,,568465.0,60.0,connect,,On time
+1826,567305,405564,mobile,canceled,,552222.0,0.0,mobile,,On time
+1827,567833,372011,mobile,ended,-1345.0,546551.0,360.0,mobile,24.0,Late
+1828,568153,312716,mobile,ended,-166.0,541645.0,120.0,mobile,39.0,Late
+1829,568325,354026,mobile,ended,3.0,567791.0,90.0,mobile,18.0,Late
+1830,568724,382821,connect,ended,7.0,560988.0,720.0,connect,-53.0,On time
+1831,569688,344254,connect,ended,61.0,568778.0,690.0,connect,,On time
+1832,569706,245154,connect,canceled,,558088.0,660.0,connect,-40.0,On time
+1833,571823,353425,connect,ended,-276.0,569556.0,240.0,connect,-177.0,On time
+1834,573274,298117,connect,ended,-7.0,571227.0,210.0,connect,-13.0,On time
+1835,567741,294059,mobile,ended,111.0,567708.0,120.0,mobile,283.0,Late
+1836,568049,381499,connect,canceled,,562174.0,720.0,connect,73.0,Late
+1837,568241,396409,mobile,canceled,,566136.0,570.0,mobile,16.0,Late
+1838,568523,297973,mobile,ended,12.0,567121.0,240.0,mobile,-275.0,On time
+1839,569717,377312,mobile,ended,230.0,545045.0,90.0,mobile,22.0,Late
+1840,573446,380069,mobile,ended,,573429.0,300.0,mobile,,On time
